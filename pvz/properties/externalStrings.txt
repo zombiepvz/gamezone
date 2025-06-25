@@ -1414,7 +1414,7 @@ er...
 Wait, I remember! It's... {MOUTH_SMALL_OH}
 
 [CRAZY_DAVE_2400]
-Greetings, neighbor!
+Greetings, GameZone user!
 [CRAZY_DAVE_2401]
 The name's Crazy Dave.
 [CRAZY_DAVE_2402]
@@ -3126,7 +3126,7 @@ Puzzles
 [UPSELL_3_IMG1_TEXT]
 10 levels of Vasebreaker, plus 10
 levels of I, Zombie, where you play the
-zombie’s role: eat through all the
+zombieÂ’s role: eat through all the
 plants to reach a brain buffet!
 
 [UPSELL_3_IMG2_HEADING]
