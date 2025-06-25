@@ -17,7 +17,7 @@ Cherry Bomb
 Blows up all zombies in an area
 
 [WALL_NUT]
-Deez-nuts
+Wall-nut
 
 [WALL_NUT_TOOLTIP]
 Blocks off zombies and protects your other plants
@@ -1108,7 +1108,7 @@ Dog Zombie description
 Propeller Zombie description
 
 [CRAZY_DAVE_201]
-Evening, neighbor.
+Evening, GameZone user.
 [CRAZY_DAVE_202]
 Those zombies just won't let up, will they?
 [CRAZY_DAVE_203]
@@ -1489,9 +1489,9 @@ Hey neighbor! Got some new items for sale!
 [CRAZY_DAVE_3300]
 End of the line, buddy!
 [CRAZY_DAVE_3301]
-Yup, you knew this talk was coming.
-[CRAZY_DAVE_3302]
 You wanna go further? You gotta get the FULL VERSION.
+[CRAZY_DAVE_3302]
+Since you finished the demo, you can now play Survival and Puzzle modes.
 [CRAZY_DAVE_3303]
 Ok, I'll level with ya, sassafras...
 [CRAZY_DAVE_3304]
@@ -1801,7 +1801,7 @@ Plant a fume-shroom first!
 Plant a lily pad first!
 
 [PLAYERS_HOUSE]
-Your House
+GameZone User's House
 
 [PLAYERS_BACKYARD]
 {PLAYER}'s Backyard
