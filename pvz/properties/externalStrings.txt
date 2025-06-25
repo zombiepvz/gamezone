@@ -17,7 +17,7 @@ Cherry Bomb
 Blows up all zombies in an area
 
 [WALL_NUT]
-Wall-nut
+Deez-nuts
 
 [WALL_NUT_TOOLTIP]
 Blocks off zombies and protects your other plants
