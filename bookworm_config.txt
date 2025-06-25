@@ -17,8 +17,8 @@
 
 //game cheat options
 
-&cheat_neverdie=true&
-&cheat_allmatch=true&
+&cheat_neverdie=false&
+&cheat_allmatch=false&
 
 
 //all loaded - this config info must be present
