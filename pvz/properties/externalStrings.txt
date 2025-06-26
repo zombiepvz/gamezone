@@ -1819,7 +1819,7 @@ Are you sure?
 Sell this plant to Crazy Dave?
 
 [DIALOG_WARNING]
-Warning
+YOU STUPID
 
 [DIALOG_ZEN_GARDEN_FULL]
 Oh no! Your garden is too full!
