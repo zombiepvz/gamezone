@@ -1,5 +1,5 @@
 [PEASHOOTER]
-pee gun
+Peashooter
 
 [PEASHOOTER_TOOLTIP]
 Shoots peas at the enemy
