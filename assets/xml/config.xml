@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+   <videos>
+     <video order="0">
+       <title><![CDATA[High Dive]]></title>
+       <url><![CDATA[http://crazysquares.s3.amazonaws.com/Dive2.flv]]></url>
+       <images>
+         <image id="still"><![CDATA[assets/images/videos/dive.jpg]]></image>
+         <image id="thumbnail"><![CDATA[assets/images/videos/dive_th.jpg]]></image>
+       </images>
+     </video>     
+    <video order="1">
+       <title><![CDATA[Chase]]></title>
+       <url><![CDATA[http://crazysquares.s3.amazonaws.com/chase.flv]]></url>
+       <images>
+         <image id="still"><![CDATA[assets/images/videos/chase.jpg]]></image>
+         <image id="thumbnail"><![CDATA[assets/images/videos/chase_th.jpg]]></image>
+       </images>
+     </video>
+		<video order="2">
+			<title><![CDATA[Holes]]></title>
+			<url><![CDATA[http://crazysquares.s3.amazonaws.com/Holes.flv]]></url>
+			<images>
+				<image id="still"><![CDATA[assets/images/videos/holes.jpg]]></image>
+				<image id="thumbnail"><![CDATA[assets/images/videos/holes_th.jpg]]></image>
+			</images>
+		</video>
+		<video order="3">
+			<title><![CDATA[Lick]]></title>
+			<url><![CDATA[http://crazysquares.s3.amazonaws.com/lick.flv]]></url>
+			<images>
+				<image id="still"><![CDATA[assets/images/videos/lick2.jpg]]></image>
+				<image id="thumbnail"><![CDATA[assets/images/videos/lick2_th.jpg]]></image>
+			</images>
+		</video>
+		<video order="4">
+			<title><![CDATA[Tongue Tied]]></title>
+			<url><![CDATA[http://crazysquares.s3.amazonaws.com/Tongue_Tied.flv]]></url>
+			<images>
+				<image id="still"><![CDATA[assets/images/videos/tongue_tied.jpg]]></image>
+				<image id="thumbnail"><![CDATA[assets/images/videos/tongue_tied_th.jpg]]></image>
+			</images>
+	  </video>
+	</videos>
+</data>
+
+
+
