@@ -3086,8 +3086,7 @@ Try the Full Version
 Quit
 
 [UPSELL_1_IMG1_HEADING]
-Day, Night, Pool,
-Fog and Roof
+STAGES
 
 [UPSELL_1_IMG1_TEXT]
 50 levels of Adventure mode
