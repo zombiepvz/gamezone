@@ -226,7 +226,7 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
       setProgress(0.1);
 
       const scaffolding = new Scaffolding.Scaffolding();
-      scaffolding.width = 480;
+      scaffolding.width = 640;
       scaffolding.height = 360;
       scaffolding.resizeMode = "preserve-ratio";
       scaffolding.editableLists = false;
@@ -259,9 +259,9 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
       if (vm.setFramerate) vm.setFramerate(30);
       if (vm.renderer.setUseHighQualityRender) vm.renderer.setUseHighQualityRender(false);
       if (vm.setRuntimeOptions) vm.setRuntimeOptions({
-        fencing: true,
+        fencing: false,
         miscLimits: true,
-        maxClones: 300,
+        maxClones: 9999999999,
       });
       if (vm.setCompilerOptions) vm.setCompilerOptions({
         enabled: true,
