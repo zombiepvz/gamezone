@@ -1108,7 +1108,7 @@ Dog Zombie description
 Propeller Zombie description
 
 [CRAZY_DAVE_201]
-Evening, GameZone user.
+Evening, neighbor.
 [CRAZY_DAVE_202]
 Those zombies just won't let up, will they?
 [CRAZY_DAVE_203]
@@ -1414,7 +1414,7 @@ er...
 Wait, I remember! It's... {MOUTH_SMALL_OH}
 
 [CRAZY_DAVE_2400]
-Greetings, GameZone user!
+Greetings, neighbor!
 [CRAZY_DAVE_2401]
 The name's Crazy Dave.
 [CRAZY_DAVE_2402]
@@ -1489,9 +1489,9 @@ Hey neighbor! Got some new items for sale!
 [CRAZY_DAVE_3300]
 End of the line, buddy!
 [CRAZY_DAVE_3301]
-You wanna go further? You gotta get the FULL VERSION.
+Yup, you knew this talk was coming.
 [CRAZY_DAVE_3302]
-Since you finished the demo, you can now play Survival and Puzzle modes.
+You wanna go further? You gotta get the FULL VERSION.
 [CRAZY_DAVE_3303]
 Ok, I'll level with ya, sassafras...
 [CRAZY_DAVE_3304]
@@ -1801,7 +1801,7 @@ Plant a fume-shroom first!
 Plant a lily pad first!
 
 [PLAYERS_HOUSE]
-GameZone User's House
+Your House
 
 [PLAYERS_BACKYARD]
 {PLAYER}'s Backyard
