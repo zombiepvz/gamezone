@@ -1,0 +1,70 @@
+<config>
+	<tracking site="zylom_UK" game="yahtzee" source="bar"/><!-- @source can be 'endgame' or 'bar' -->
+	<!-- All paths/URLs in this settings file will be considered relative, and will use (be appended to) this root path, unless they start with 'http'. -->
+	<!-- This value is usually set to an absolute URL once it is known, such as 'http://www.pogo.com/games/mygame/' (without the quotes). -->
+	<rootPath>assets/pt_BR/</rootPath>
+	<controls>
+		<moreGames enabled="true">
+			<label offsetX="0" offsetY="0" size="11"><![CDATA[<u>Mais jogos</u>]]></label>
+		</moreGames>
+		<difficulty enabled="false">
+			<label offsetX="0" offsetY="0" size="12"><![CDATA[Dificuldade]]></label>
+			<levels offsetX="0" offsetY="0" size="12">
+				<level value="1"><![CDATA[Fácil]]></level>
+				<level value="2" default="true"><![CDATA[Média]]></level>
+				<level value="3"><![CDATA[Difícil]]></level>
+			</levels>
+		</difficulty>
+		<newGame enabled="false">
+			<label offsetX="0" offsetY="0" size="12"><![CDATA[Jogo novo]]></label>
+		</newGame>
+		<sound enabled="false" />
+		<info enabled="false" />
+		<pause enabled="false" />
+	</controls>
+	<otherGames>
+		<games>
+			<game>
+				<thumb path="images/standalone/tn-monopolyclassic.gif" />
+				<label size="11" offsetX="0" offsetY="0" color="#4391af"><![CDATA[MONOPÓLIO]]></label>
+				<url>http://www.zylom.com/rplay.jsp?g=2&gid=9012</url>
+			</game>
+			<game>
+				<thumb path="images/standalone/tn-safari.gif" />
+				<label size="11" offsetX="0" offsetY="0" color="#4391af"><![CDATA[Mahjong Safari]]></label>
+				<url>http://www.zylom.com/rplay.jsp?g=2&gid=9015</url>
+			</game>
+			<!--<game>
+				<thumb path="images/standalone/tn-firstclass2_cs.png" />
+				<label size="11" offsetX="0" offsetY="0" color="#4391af"><![CDATA[First Class<br>Solitaire]]></label>
+				<url></url>
+			</game>-->
+			<game>
+				<thumb path="images/standalone/tn-battleshiptow.gif" />
+				<label size="11" offsetX="0" offsetY="0" color="#4391af"><![CDATA[BATTLESHIP<br>Batalha naval]]></label>
+				<url>http://www.zylom.com/rplay.jsp?g=2&gid=9018</url>
+			</game>
+			<!--<game>
+				<thumb path="images/standalone/tn-sweettooth2_cs.png" />
+				<label size="11" offsetX="0" offsetY="0" color="#4391af"><![CDATA[Sweet Tooth 2]]></label>
+				<url>http://www.zylom.com/rplay.jsp?g=2&gid=9017</url>
+			</game>-->
+			<game>
+				<thumb path="images/standalone/tn-connect.gif" />
+				<label size="11" offsetX="0" offsetY="0" color="#4391af"><![CDATA[CONNECT 4]]></label>
+				<url>http://www.zylom.com/rplay.jsp?g=2&gid=9016</url>
+			</game>
+			<game>
+				<thumb path="images/standalone/tn-flinger.gif" />
+				<label size="11" offsetX="0" offsetY="0" color="#4391af"><![CDATA[Phlinx]]></label>
+				<url>http://www.zylom.com/rplay.jsp?g=2&gid=9013</url>
+			</game>
+		</games>
+	</otherGames>
+	<pogoInfo>
+		<header size="16" offsetX="0" offsetY="-14" leading="0" color="#407087"><![CDATA[<br><br>Dê uma experimentada nesses jogos incríveis do Pogo no Zylom!]]></header>
+		<copy size="12" width="190" offsetX="0" offsetY="0"	leading="1" color="#ffffff" indent="-10" blockIndent="10" tabStops="[10]"></copy>
+		<link enabled="false" size="14" xOffset="0" yOffset="0" color="#000000"><![CDATA[<a href="event:gotopogo"><b><u>Click here</u></b></a> for access to 100+ more FREE online games at Pogo!]]></link>
+		<url>http://www.pogo.com</url>
+	</pogoInfo>
+</config>

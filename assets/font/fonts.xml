@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fontsLibrary>
+	<fontClass name="Fonts_fntCalibri" />
+	<fontClass name="Fonts_CalibriBold" />
+	<fontClass name="Fonts_CalibriItalic" />
+	<fontClass name="Fonts_CalibriBoldItalic" />
+	<fontClass name="Fonts_fntHoboStd" />
+	<fontClass name="Fonts_ArialUnicode" />
+</fontsLibrary>
