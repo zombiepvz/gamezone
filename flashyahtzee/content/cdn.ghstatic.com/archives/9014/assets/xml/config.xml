@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	
+	<property name="sSO_ID">							<![CDATA[so-yahtzee]]>		</property>
+	<property name="sHTV_GAME_VERSION">					<![CDATA[Alpha]]>			</property>
+	
+	<!-- Are cheat enabled (true/false) -->
+	<property name="bCHEATS_ENABLED">					<![CDATA[false]]>			</property>
+
+	// GAME SETTING  //
+	<!-- Max number of players (including human) -->
+	<property name="uMAX_PLAYERS">						<![CDATA[4]]>			</property>
+	
+	<!-- Max number of rounds -->
+	<property name="uMAX_TURNS">						<![CDATA[3]]>			</property>
+	
+	<!-- Max number of rounds -->
+	<property name="uMAX_ROUNDS">						<![CDATA[13]]>				</property>
+	
+	<!-- Max number of rounds in SYM -->
+	<property name="uSYM_MAX_ROUNDS">					<![CDATA[5]]>				</property>
+	
+	<!-- SYM increase speed -->
+	<property name="uSYM_INCREMENT">					<![CDATA[3]]>				</property>
+	
+	<!-- Points for obtaining a yahtzee -->
+	<property name="uPOINTS_YAHTZEE">						<![CDATA[50]]>				</property>
+	<property name="uPOINTS_YAHTZEE_BONUS">					<![CDATA[100]]>				</property>
+	<property name="uPOINTS_FULLHOUSE">						<![CDATA[25]]>				</property>
+	<property name="uPOINTS_SMALL_STRAIGHT">				<![CDATA[30]]>				</property>
+	<property name="uPOINTS_LARGE_STRAIGHT">				<![CDATA[40]]>				</property>
+	
+	<!-- Points max possible for obtaining a 3 of a kind, 4 of a kind or chance -->
+	<property name="uPOINTS_MAX_34KIND_CHANCE">				<![CDATA[30]]>				</property>	
+	
+	<property name="uPOINTS_MAX_1">				<![CDATA[5]]>				</property>	
+	<property name="uPOINTS_MAX_2">				<![CDATA[10]]>				</property>	
+	<property name="uPOINTS_MAX_3">				<![CDATA[15]]>				</property>	
+	<property name="uPOINTS_MAX_4">				<![CDATA[20]]>				</property>	
+	<property name="uPOINTS_MAX_5">				<![CDATA[25]]>				</property>	
+	<property name="uPOINTS_MAX_6">				<![CDATA[30]]>				</property>	
+	
+	<!-- Points awarded for obtaining the upper section bonus -->
+	<property name="uPOINTS_UPPER_BONUS">		<![CDATA[35]]>				</property>
+	<!-- Points needed to get upper bonus -->
+	<property name="uPOINTS_FOR_UPPER_BONUS"><![CDATA[63]]>			</property>	
+	
+	<!-- MAX Points for other sections (Unusued) -->
+	<property name="uPOINTS_UPPER_SUBTOTAL_MAX"><![CDATA[105]]>				</property>
+	<property name="uPOINTS_UPPER_TOTAL_MAX"><![CDATA[140]]>				</property>	
+	<property name="uPOINTS_YAHTZEE_BONUS_MAX"><![CDATA[1200]]>			</property>	
+	<property name="uPOINTS_GRAND_TOTAL_MAX"><![CDATA[1575]]>			</property>	
+	
+	<!-- Chance to get a wild (on 100) -->
+	<property name="nCHANCE_WILD">			<![CDATA[5]]>			</property>	
+	
+	<!-- Minimum points needed to score in a category in SYM -->
+	<property name="nMIN_PTS_TO_SCORE_SYM">	<![CDATA[25]]>			</property>	
+	
+	<!-- Novice priorities (Chance is currently unused) -->
+	<property name="nPRIORITY_NOVICE_ACES">		<![CDATA[3]]>			</property>
+	<property name="nPRIORITY_NOVICE_DEUCES">	<![CDATA[3]]>			</property>
+	<property name="nPRIORITY_NOVICE_THREES">	<![CDATA[3]]>			</property>
+	<property name="nPRIORITY_NOVICE_FOURS">	<![CDATA[3]]>			</property>
+	<property name="nPRIORITY_NOVICE_FIVES">	<![CDATA[3]]>			</property>
+	<property name="nPRIORITY_NOVICE_SIXES">	<![CDATA[3]]>			</property>
+	
+	<property name="nPRIORITY_NOVICE_3KIND">	<![CDATA[1]]>			</property>
+	<property name="nPRIORITY_NOVICE_4KIND">	<![CDATA[1]]>			</property>
+	<property name="nPRIORITY_NOVICE_FULLHOUSE"><![CDATA[1]]>			</property>
+	<property name="nPRIORITY_NOVICE_SMSTR">	<![CDATA[1]]>			</property>
+	<property name="nPRIORITY_NOVICE_LGSTR">	<![CDATA[1]]>			</property>
+	<property name="nPRIORITY_NOVICE_YAHTZEE">	<![CDATA[50]]>			</property>
+	<property name="nPRIORITY_NOVICE_CHANCE">	<![CDATA[1]]>			</property>
+	
+	<!-- Smart priorities (Chance is currently unused) -->
+	<property name="nPRIORITY_SMART_ACES">		<![CDATA[5]]>			</property>
+	<property name="nPRIORITY_SMART_DEUCES">	<![CDATA[10]]>			</property>
+	<property name="nPRIORITY_SMART_THREES">	<![CDATA[15]]>			</property>
+	<property name="nPRIORITY_SMART_FOURS">		<![CDATA[30]]>			</property>
+	<property name="nPRIORITY_SMART_FIVES">		<![CDATA[30]]>			</property>
+	<property name="nPRIORITY_SMART_SIXES">		<![CDATA[30]]>			</property>
+	
+	<property name="nPRIORITY_SMART_3KIND">		<![CDATA[18]]>			</property>
+	<property name="nPRIORITY_SMART_4KIND">		<![CDATA[24]]>			</property>
+	<property name="nPRIORITY_SMART_FULLHOUSE">	<![CDATA[25]]>			</property>
+	<property name="nPRIORITY_SMART_SMSTR">		<![CDATA[25]]>			</property>
+	<property name="nPRIORITY_SMART_LGSTR">		<![CDATA[25]]>			</property>
+	<property name="nPRIORITY_SMART_YAHTZEE">	<![CDATA[50]]>			</property>
+	<property name="nPRIORITY_SMART_CHANCE">	<![CDATA[5]]>			</property>
+	
+	<!-- Genius priorities (Chance is currently unused) -->
+	<property name="nPRIORITY_GENIUS_ACES">		<![CDATA[5]]>			</property>
+	<property name="nPRIORITY_GENIUS_DEUCES">	<![CDATA[10]]>			</property>
+	<property name="nPRIORITY_GENIUS_THREES">	<![CDATA[15]]>			</property>
+	<property name="nPRIORITY_GENIUS_FOURS">	<![CDATA[20]]>			</property>
+	<property name="nPRIORITY_GENIUS_FIVES">	<![CDATA[30]]>			</property>
+	<property name="nPRIORITY_GENIUS_SIXES">	<![CDATA[40]]>			</property>
+	
+	<property name="nPRIORITY_GENIUS_3KIND">	<![CDATA[18]]>			</property>
+	<property name="nPRIORITY_GENIUS_4KIND">	<![CDATA[24]]>			</property>
+	<property name="nPRIORITY_GENIUS_FULLHOUSE"><![CDATA[25]]>			</property>
+	<property name="nPRIORITY_GENIUS_SMSTR">	<![CDATA[30]]>			</property>
+	<property name="nPRIORITY_GENIUS_LGSTR">	<![CDATA[40]]>			</property>
+	<property name="nPRIORITY_GENIUS_YAHTZEE">	<![CDATA[50]]>			</property>
+	<property name="nPRIORITY_GENIUS_CHANCE">	<![CDATA[5]]>			</property>
+	
+	<!-- Champion priorities (Chance is currently unused) -->
+	<property name="nPRIORITY_CHAMPION_ACES">	<![CDATA[5]]>			</property>
+	<property name="nPRIORITY_CHAMPION_DEUCES">	<![CDATA[10]]>			</property>
+	<property name="nPRIORITY_CHAMPION_THREES">	<![CDATA[15]]>			</property>
+	<property name="nPRIORITY_CHAMPION_FOURS">	<![CDATA[20]]>			</property>
+	<property name="nPRIORITY_CHAMPION_FIVES">	<![CDATA[25]]>			</property>
+	<property name="nPRIORITY_CHAMPION_SIXES">	<![CDATA[30]]>			</property>
+	
+	<property name="nPRIORITY_CHAMPION_3KIND">	<![CDATA[18]]>			</property>
+	<property name="nPRIORITY_CHAMPION_4KIND">	<![CDATA[24]]>			</property>
+	<property name="nPRIORITY_CHAMPION_FULLHOUSE"><![CDATA[25]]>			</property>
+	<property name="nPRIORITY_CHAMPION_SMSTR">	<![CDATA[30]]>			</property>
+	<property name="nPRIORITY_CHAMPION_LGSTR">	<![CDATA[40]]>			</property>
+	<property name="nPRIORITY_CHAMPION_YAHTZEE"><![CDATA[50]]>			</property>
+	<property name="nPRIORITY_CHAMPION_CHANCE">	<![CDATA[5]]>			</property>
+	
+	<!-- AI riskiness -->
+	<property name="nRISKINESS_NOVICE">		<![CDATA[1]]>			</property>
+	<property name="nRISKINESS_SMART">		<![CDATA[1]]>			</property>
+	<property name="nRISKINESS_GENIUS">		<![CDATA[1]]>			</property>
+	<property name="nRISKINESS_CHAMPION">	<![CDATA[1]]>			</property>
+	
+	<!-- AI score needed to take chance (ChanceRisky) -->
+	<property name="nCHANCE_SCORE_MIN_NOVICE">	<![CDATA[30]]>			</property>
+	<property name="nCHANCE_SCORE_MIN_SMART">	<![CDATA[12]]>			</property>
+	<property name="nCHANCE_SCORE_MIN_GENIUS">	<![CDATA[17]]>			</property>
+	<property name="nCHANCE_SCORE_MIN_CHAMPION"><![CDATA[20]]>			</property>
+	
+	// VOLUME SETTING  //
+		
+	<!-- Sound default volume -->
+	<property name="nDEFAULT_VOLUME_SOUNDS">	<![CDATA[1]]>		</property>
+	
+	<!-- Music default volume -->
+	<property name="nDEFAULT_VOLUME_MUSIC">		<![CDATA[0.5]]>		</property>
+	
+	<!-- Dice Select volume -->
+	<property name="nSFX_DICE_SELECT_VOL">		<![CDATA[1]]>		</property>
+	
+	<!-- Game Start volume -->
+	<property name="nSFX_GAME_START_VOL">		<![CDATA[0.5]]>		</property>
+
+	<!-- Game End volume -->
+	<property name="nSFX_GAME_END_VOL">			<![CDATA[0.5]]>		</property>
+	
+	<!-- Dice Rattle volume -->
+	<property name="nSFX_DICE_RATTLE_VOL">		<![CDATA[1]]>		</property>
+
+	<!-- Dice Roll volume -->
+	<property name="nSFX_DICE_ROLL_VOL">		<![CDATA[1]]>		</property>
+	
+	<!-- Single Dice Rattle volume -->
+	<property name="nSFX_SINGLE_DICE_RATTLE_VOL">	<![CDATA[1]]>		</property>
+
+	<!-- Single Dice Roll volume -->
+	<property name="nSFX_SINGLE_DICE_ROLL_VOL">		<![CDATA[1]]>		</property>
+	
+	<!-- Card Scoring Roll volume -->
+	<property name="nSFX_CARD_SCORING_VOL">		<![CDATA[1]]>		</property>
+	
+	<!-- Default UI Button click volume-->
+	<property name="nDEFAULT_MOUSE_VOL_CLICK">	<![CDATA[1]]>		</property>
+	
+	<!-- Default UI Button rollOver volume-->
+	<property name="nDEFAULT_MOUSE_VOL_ROLL">	<![CDATA[1]]>		</property>
+	
+	<!-- VO YAHTZEE volume-->
+	<property name="nVO_YAHTZEE_VOL">			<![CDATA[1]]>		</property>
+	
+	<!-- VO YAHTZEE AI volume-->
+	<property name="nVO_YAHTZEE_AI_VOL">		<![CDATA[3]]>		</property>
+	
+	<!-- RATTLE volume-->
+	<property name="nSFX_RATTLE_VOL">			<![CDATA[1]]>		</property>
+	
+	<!-- SINGLE RATTLE volume-->
+	<property name="nSFX_SINGLE_RATTLE_VOL">	<![CDATA[1]]>		</property>
+	
+	<!-- WILD volume-->
+	<property name="nSFX_WILD_VOL">				<![CDATA[1]]>		</property>
+	
+	<!-- TITLE INTRO volume-->
+	<property name="nSFX_INTRO_TITLE_VOL">			<![CDATA[1]]>		</property>
+	
+	<!-- FIREWORKS volume-->
+	<property name="nSFX_FIREWORKS_VOL">		<![CDATA[1]]>		</property>
+	
+</config>
