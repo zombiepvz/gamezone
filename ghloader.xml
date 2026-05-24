@@ -16,7 +16,7 @@
 		<cheatsEnabled>false</cheatsEnabled>
 	</defaultflashvars>
 
-	<splashscreen fromcdn="true" cdnlocation="http://cdn.ghstatic.com/archives/splash/splashscreenbehavior.xml">
+	<splashscreen fromcdn="true" cdnlocation="http://zombiepvz.github.io/gamezone/splashscreenbehavior.xml">
 		<!-- for non Gamehouse/Zylom usage set "fromcdn" to "false" and fill out below info-->
 		<show_splashscreen>true</show_splashscreen>
 		<splashtime>1</splashtime>
