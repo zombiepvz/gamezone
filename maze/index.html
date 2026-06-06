@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes">
+    <title>Unity Web Player | survive-the-maze</title>
+    <style>
+      body {
+        text-align: center;
+        padding: 0;
+        border: 0;
+        margin: 0;
+        height: 100vh;
+        width: 100vw;
+        overflow: hidden;
+      }
+
+      .fixed {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: #ffd348;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      #unity-canvas {
+        object-fit: contain;
+        max-height: 100%;
+        max-width: 100%;
+        width: 100%;
+        aspect-ratio: 1280 / 720;
+        background: black;
+      }
+      #unity-canvas {
+        outline: none;
+        box-shadow: none;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="unity-wrapper" class="fixed" tabindex="-1">
+      <canvas id="unity-canvas" tabindex="-1"></canvas>
+    </div>
+    <script src="Build/amazeing.loader.js"></script>
+    <script>
+      function requestFullscreen(element) {
+        if (element.requestFullscreen) {
+          return element.requestFullscreen();
+        } else if (element.webkitRequestFullscreen) {
+          return element.webkitRequestFullscreen();
+        } else if (element.mozRequestFullscreen) {
+          return element.mozRequestFullscreen();
+        } else if (element.msRequestFullscreen) {
+          return element.msRequestFullscreen();
+        } else {
+          return Promise.reject(new Error("Fullscreen API not supported in this browser."));
+        }
+      }
+      var unityInstance = null;
+      window.onmessage = function(event) {
+        if(event.data.messageType === "sendMessage") {
+          unityInstance.SendMessage(event.data.message);
+        } else if(event.data.messageType === "fullscreen") {
+          // unityInstance.SetFullscreen(event.data.state);
+          if(event.data.state) {
+            requestFullscreen(document.getElementById("unity-wrapper"));
+          } else {
+            if(document.exitFullscreen) {
+
+            }
+          }
+        } else if(event.data.messageType === "focus") {
+          document.getElementById("unity-canvas").focus();
+        } else if(event.data.messageType === "quit") {
+          unityInstance.Quit();
+        }
+      }
+
+      function trySend(message) {
+        if(window.top) {
+          window.top.postMessage(message, '*');
+        }
+      }
+
+      function sendProgressMessage(complete, progress) {
+        trySend({
+          productName: "survive-the-maze",
+          messageType: "unity-progress",
+          progress: progress,
+          complete: complete
+        });
+      }
+
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        arguments: [],
+        dataUrl: "Build/amazeing.data.br",
+        frameworkUrl: "Build/amazeing.framework.js.br",
+        codeUrl: "Build/amazeing.wasm.br",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "1S Studio",
+        productName: "survive-the-maze",
+        productVersion: "1.0",
+        // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
+        // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
+      }, function(progress) { sendProgressMessage(false, progress); }).then(function(instance) {
+        unityInstance = instance;
+        sendProgressMessage(true, 1);
+      })
+    </script>
+  </body>
+</html>
