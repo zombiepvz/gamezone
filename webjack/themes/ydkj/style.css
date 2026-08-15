@@ -1,0 +1,1468 @@
+/* $Id: style.css,v 1.13 2006/04/03 22:20:48 unconed Exp $ */
+
+/*
+** HTML elements
+*/
+body {
+	color: #000;
+	background:#fff;
+	background-image:url(/themes/ydkj/images/bg-teallines.png);
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+#aligncenter {text-align:center;}
+
+a {
+	font-family: Verdana, Helvetica, Arial;
+	color:#4D6990;
+	text-decoration: underline;
+}
+
+a:visited {
+	font-family: Verdana, Helvetica, Arial;
+	color:#4D6990;
+	text-decoration: underline;
+}
+
+a.active {
+	font-family: Verdana, Helvetica, Arial;
+	color:#4D6990;
+	text-decoration: underline;
+}
+
+/*
+ * Main
+*/
+
+#main-holder {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main {
+	width: 904px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main-content {
+	width: 900px;
+	border-left:2px solid #000;
+	border-right:2px solid #000;
+	border-bottom:2px solid #000;
+	background:#fff;
+}
+
+#main-table {
+	width:100%;
+}
+
+/*
+ * Header
+*/
+
+#header {
+	background-image: url(/themes/ydkj/images/front-header.gif);
+	width: 904px;
+	height: 112px;
+	margin: 0px;
+	padding: 0px;
+}
+
+#header-content {
+	margin: 0px;
+	padding-top: 17px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+/*
+ * Links
+*/
+
+.links {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	text-decoration: none;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * Login
+*/
+
+.login-box-outer {
+	width: 185px;
+	height: 82px;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+.logout-box-outer {
+	width: 108px;
+	height: 72px;
+	float: right;
+	vertical-align: top;
+	margin: 0px;
+	padding: 0px;
+}
+
+.login-box {
+	vertical-align: top;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 6px;
+	margin: 0px;
+	overflow: hidden;
+}
+
+.login-notvalid-text {
+	vertical-align: top;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	color: #888888;
+	float: left;
+	padding-top: 4px;
+}
+
+.login-notvalid-field {
+	vertical-align: top;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	color: #888888;
+	margin: 0px;
+	padding: 0px;
+	min-width: 100px;
+	width: 100px;
+	max-width: 100px;
+}
+
+.login-notvalid-help {
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+.login-notvalid-help-text {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	color: #888888;
+	text-decoration: underline;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+.login-valid {
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+.login-valid-text {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	text-align: left;
+	color: #888888;
+	text-decoration: underline;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+.login-hidden {
+	display: none;
+}
+
+
+/*
+ * Columns
+*/
+
+#left-column {
+	width: 250px;
+	vertical-align: top;
+}
+
+#right-column {
+	width: 648px;
+	vertical-align: top;
+	text-align: left;
+}
+
+/*
+ * Clog
+	width:242px;
+	width:246px;
+*/
+
+.clog {
+	padding: 0px;
+	margin: 0px;
+	width: 250px;
+}
+
+.clog-header {
+	background-image:url(/themes/ydkj/images/clog-header.png);
+	height:52px;
+	margin-left:4px;
+	margin-right:0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+}
+
+.clog-lg-header {
+	background-image: url(/themes/ydkj/images/LatestPosts.png);
+	background-repeat: no-repeat;
+	height: 12px;
+	margin-left: 4px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	border: none;
+	z-index: 10;
+	font-size: 1pt;
+}
+
+.clog-tr-header {
+	background-image: url(/themes/ydkj/images/TopRatedGames.png);
+	background-repeat: no-repeat;
+	height: 12px;
+	margin-left: 4px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	border: none;
+	z-index: 10;
+	font-size: 1pt;	
+}
+
+.clog-trw-header {
+	background-image: url(/themes/ydkj/images/TopRatedWeekly.png);
+	background-repeat: no-repeat;
+	height: 12px;
+	margin-left: 4px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	border: none;
+	z-index: 10;
+	font-size: 1pt;	
+}
+
+.clog-trd-header {
+	background-image: url(/themes/ydkj/images/TopRatedDisOrDat.png);
+	background-repeat: no-repeat;
+	height: 12px;
+	margin-left: 4px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	border: none;
+	z-index: 10;
+	font-size: 1pt;	
+}
+
+.clog-content {
+	margin-left:4px;
+	margin-right:0px;
+	margin-top:0px;
+	margin-bottom:0px;
+	border-left:2px solid #02647D;
+	border-right:2px solid #02647D;
+	border-bottom:2px solid #02647D;
+	border-top: 2px solid #02647D;
+	background-image:url(/themes/ydkj/images/bg-greylines.png);
+	width: 242px;
+	text-align:left;
+	background-attachment:fixed;
+	padding: 0px;
+}
+
+.clog-entry {
+	font-family:Verdana, Arial, Helvetica, sans-serif;	
+	color: #666666;
+	font-size: 8pt;
+	margin-left:7px;
+	margin-right:7px;
+	margin-top:3px;
+	margin-bottom:8px;
+	padding-top: 0px;
+	padding-bottom:15px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.clog-entry .date-rating {
+	height: 13px;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+}
+
+.clog-entry .date {
+	float: left;
+	font-weight: bold;
+	color: #000000;
+	font-size: 6pt;
+	margin: 0px;
+	padding: 0px;
+}
+
+.clog-entry .rating {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+.clog-entry headline {
+	margin: 0px;
+	padding: 0px;
+}
+
+.clog-entry a.headline {
+	font-size: 7pt;
+	font-weight: bold;	
+	color: #0060b5;
+	text-decoration: none;
+}
+
+.clog-entry a.headline:visited {
+	font-size: 7pt;
+	font-weight: bold;	
+	color: #b95a3a;
+	text-decoration: none;
+}
+
+.clog-entry a.headline:hover {
+	color: #000000;
+}
+
+.clog-entry a.headlineQueued {
+	font-size: 7pt;
+	font-weight: bold;
+	color:#ff0000;
+	text-decoration: none;
+}
+
+.clog-entry .content {
+	font-size: 7pt;
+	font-weight: normal;	
+	margin: 0px;
+	padding-left: 6px;
+	padding-right: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+div.clog-more {
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	height: 20px;
+}
+
+a.clog-more {
+	float: right;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	font-weight: bold;
+	font-size: 8pt;
+	color: #0060b5;
+	text-decoration: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * Menu
+#menu-box {
+	height: 115px;
+*/
+
+#menu-box {
+	border: solid 1px #888888;
+	text-align: left;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	margin-right: 1px;
+	padding: 5px;
+}
+
+.menu-holder {
+	float: left;
+	padding: 0px;
+	margin: 0px;
+	line-height: 90%;
+}
+
+.menu-header {
+	font-family: Verdana, Helvetica, Arial;
+	text-align: left;
+	color: #000000;
+	font-weight: bold;
+	font-size: 10pt;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.menu-holder a.menu-link {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	text-align: left;
+	color: #4D6990;
+	text-decoration: none;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu-holder a.menu-link:visited {
+	color: #888888;
+}
+.menu-holder a.menu-link:hover {
+	color: #000000;
+}
+
+/*
+ * Search
+*/
+
+#outer-search-box {
+	margin: 0px;
+	padding: 0px;
+}
+
+#search-box {
+	border: solid 1px #000000;
+	background-color: #cccccc;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	margin-left: 4px;
+	margin-right: 1px;
+	padding: 0px;
+	height: 30px;
+}
+
+/*
+ * Tabs
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+*/
+
+/*
+ul.tabs li a {
+	background-color: #ddd;
+	border-color: #bbb;
+	border-width: 1px;
+	border-style: solid solid none solid;
+	height: auto;
+	margin-right: 0.5em;
+	padding: 0 1em;
+	text-decoration: none;
+}
+*/
+
+/*
+div.tabs {
+	float: right;
+	position: relative;
+	top: -20px;
+	margin: 0px;
+	padding: 0px;
+}
+
+ul.tabs.primary {
+	list-style-type: none;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	margin-right: 3px;
+	padding: 0px;
+}
+
+ul.tabs.primary li {
+	display: inline;
+	margin: 0px;
+	padding: 0px;
+}
+
+ul.tabs.primary li a {
+	padding: 0px 10px;
+	margin: 0px;
+	border: 1px solid #666666;
+	background-color: #cccccc;
+	text-decoration: none;
+	text-align: center;
+}
+
+ul.tabs.primary li a:hover {
+	background-color: #333333;
+	color: #ffffff;
+}
+
+ul.tabs.primary li.active a{
+	color: #ff0000;
+}
+*/
+
+ul.tabs.primary li a {
+	font-size: 10pt;
+}
+
+ul.tabs.primary li a:hover {
+	font-size: 10pt;
+}
+
+ul.tabs.primary li.active a{
+	font-size: 10pt;
+}
+
+/*
+ * Misc
+*/
+
+div.form-item input {
+	margin-top: 4px;
+	margin-bottom: 2px;
+}
+
+.collapsible .description {
+	margin-top: 6px;
+}
+
+/*
+ * Stuff viewable by special users
+*/
+
+div#block-user-1 {
+	margin: 10px;
+	padding: 0px;
+}
+
+/*
+ * Content
+*/
+
+.content-title {
+	border-top: 1px solid #aaad93;
+	border-left: 1px solid #aaad93;
+	border-right: 1px solid #aaad93;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 14pt;
+	line-height: 18pt;
+	margin-top: 20px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 8pt;
+}
+
+.clog-ratings-holder {
+	border-left: 1px solid #aaad93;
+	border-right: 1px solid #aaad93;
+	margin: 0px;
+	padding: 0px;
+}
+
+.node {
+	padding: 8pt;
+	margin-bottom: 8pt;
+	border-bottom: 1px solid #aaad93;
+	border-left: 1px solid #aaad93;
+	border-right: 1px solid #aaad93;
+}
+
+.games .node {
+	border-top: 1px solid #aaad93;
+}
+
+.node .content {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+	line-height: 14pt;
+}
+
+.breadcrumb {
+	position: absolute;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	margin: 0px;
+	padding: 0px;
+	top: 110px;
+}
+
+.breadcrumb a {
+	color: #666666;
+	text-decoration: none;
+}
+
+.content-links {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	line-height: 10pt;
+
+	margin: 1em;
+}
+
+.wanna-comment {
+	margin-top: 0px;
+	margin-bottom: 30px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+}
+
+.wanna-comment h1 {
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 14pt;
+}
+
+.wanna-comment a {
+	margin: 0px;
+	padding: 0px;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+	text-decoration: underline;
+}
+
+.fourohfour {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+	line-height: 14pt;
+        margin: 0px;
+        padding-top: 10px;
+        padding-right: 4px;
+}
+
+/*
+ * Comments and comment input
+*/
+
+.comment {
+	border-top: 1px solid #AAAD93;
+	border-bottom: 1px solid #AAAD93;
+	border-left: 1px solid #AAAD93;
+	border-right: 1px solid #AAAD93;
+	background-image:url(/themes/ydkj/images/bg-comments.png);
+	background-attachment:fixed;
+	padding: 1em;
+	margin-bottom: 1em;
+}
+
+.comment .title {
+	display: none;
+}
+
+.comment .title a {
+	border: none;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+.comment .submitted {
+	font-family: Verdana, Helvetica, Arial;
+	color: #AAAD93;
+	font-size: 7pt;
+	line-height: 12pt;
+}
+
+.comment .content {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+	line-height: 12pt;
+}
+
+.comment .new {
+	text-align: right;
+	font-family: Verdana, Helvetica, Arial;
+	font-weight: bold;
+	font-size: 0.8em;
+	float: right;
+	color: red;
+}
+
+.comment .picture {
+	border: 1px solid #abc;
+	float: right;
+	margin: 0.5em;
+}
+
+div.rc-default {
+	margin: 20px;
+	padding: 0px;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+}
+
+h1.title {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 14pt;
+	text-align: left;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+	line-height: 18pt;
+}
+
+h2.title {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: left;
+	color: #888D93;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.form-item label {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	color: #AAAD93;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+	color: #AAAD93;
+*/
+div.form-item a {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+ul.tips li {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	font-weight: normal;
+	text-align: left;
+	color: #888888;
+	margin: 5px;
+	padding: 0px;
+}
+
+input.form_submit {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	font-weight: normal;
+	text-align: left;
+	margin: 25px;
+	padding: 25px;
+}
+
+/*
+ * Profile stuff
+*/
+
+div.profile dt.user-member {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.profile dd.user-member {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 12pt;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.profile dt {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.profile dd {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	margin: 0px;
+	padding-top: 0px;
+	padding-bottom: 20px;
+}
+
+div.profilelist {
+	font-family: Verdana, Helvetica, Arial;
+	padding-bottom:10px;
+	margin-top:10px;
+	font-size:10px;
+}
+
+div.profilelist div.name {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 11pt;
+	font-weight: normal;
+	margin: 0px;
+	padding: 5px;
+	margin-bottom:5px;
+	font-weight:bold;
+	background-image:url(/themes/ydkj/images/bg-comments.png);
+	border:1px solid #aaaaaa;
+}
+div.profilelist div.field {
+	padding:5px;
+	padding-top:0px;
+	font-weight:bold;
+}
+div.profilelist div.field p {
+	display:inline;
+}
+div.profilelist div.field div.fieldname{
+	display:inline;
+	padding-right:5px;
+	font-weight:normal;
+}
+
+/*
+ * This puts the space below the "Preview comment" and "Post comment" buttons
+*/
+div.box {
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+/*
+ * Formatting for the "Input format" thingy
+*/
+fieldset.collapsible legend a {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	font-weight: normal;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+/*
+ * Formatting for the "More information about formatting options" link
+*/
+fieldset.collapsible a {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	font-weight: normal;
+	text-align: left;
+	margin: 0px;
+	padding: 25px;
+}
+
+/*
+ * Games
+*/
+
+div#flash-holder {
+	padding-top: 4px;
+	padding-bottom: 0px;
+	padding-right: 4px;
+	margin: 0px;
+	float: right;
+}
+
+div#flashcontent {
+	padding: 0px;
+	margin: 0px;
+	height: 385px;
+}
+
+.game-controls-link {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	color: #4f96f2;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * Ads
+*/
+
+div#pre-comment {
+	margin: 0px;
+	padding: 0px;
+}
+
+div#banner-ad {
+	margin: 0px;
+	padding: 0px;
+}
+
+div#left-ad {
+	float: left;
+	margin-left: 10px;
+	padding: 0px;
+}
+
+div#right-ad {
+	float: right;
+	margin-right: 10px;
+	padding: 0px;
+}
+
+.ad-link {
+	color: #ffffff;
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+.ad-image {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	width: 300px;
+	height: 250px;
+}
+
+/*
+ * Messages
+*/
+
+.messages {
+	background-color: #eee;
+	border: 1px solid #ccc;
+	padding: 0.3em;
+	margin-bottom: 1em;
+}
+
+.error {
+	border-color: red;
+}
+
+/*
+ * Footer
+*/
+
+#footer-box {
+	border: solid 1px #888888;
+	background-color: #F7F8DE;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	height: 22px;
+	text-align: center;
+}
+
+#footer-box2 {
+	margin: 0px;
+	padding: 0px;
+}
+
+.footer-link {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 7pt;
+	font-weight: normal;
+	text-align: center;
+	color: #888888;
+	text-decoration: underline;
+	margin: 0px;
+	padding: 0px;
+}
+
+.footer-fill {
+	text-align: center;
+	color: #888888;
+	font-weight: normal;
+	font: normal 8pt Serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+#disclaimer-box {
+	background-color: #ffffff;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 0px;
+	margin-bottom: 4px;
+	padding: 0px;
+	text-align: center;
+	line-height: 8pt;
+}
+
+#disclaimer-box2 {
+	margin: 0px;
+	padding: 0px;
+	line-height: 8pt;
+}
+
+#disclaimer-text {
+	color: #aaaaaa;
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-size: 7pt;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * Popups
+	background-color: #ffffff;
+*/
+
+div.popup {
+	position: relative;
+}
+
+div.popup a span.popupInner {
+	display: none;
+}
+
+div.popup a:hover span.popupInner {
+	display: block;
+	position: absolute;
+	bottom: 100px;
+	right: 100px;
+	min-width: 125px;
+	padding: 10px;
+	color: #555555;
+  	background-image:url(/themes/ydkj/images/bg-comments.png);
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 7pt;
+	font-weight: normal;
+	text-align: left;
+	border: ridge 4px #ff0000;
+}
+
+div.popup a {
+	text-decoration: none;
+}
+
+div.popup a:hover {
+	color: #441111;
+	background-color: #aaaaaa;
+}
+
+span.popupTitle {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: left;
+	margin-top: 0px;
+	margin-bottom: 5px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+	color: #404040;
+}
+
+span.popupContents {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * Share window
+*/
+
+p.share1 {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 16pt;
+	font-weight: bold;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+p.share2 {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+	font-weight: normal;
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+div.share-box-outer {
+	display: block;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.share-box {
+	display: block;
+	vertical-align: top;
+	padding: 0px;
+	margin: 0px;
+}
+
+.share-form-contents {
+	margin: 0px;
+	padding: 0px;
+	height: 100px;
+}
+
+.share-text {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+.share-field-holder {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	width: 210px;
+}
+
+.share-field {
+	float: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+.share-text .required {
+	color: #ff0000;
+}
+
+.share-button-holder {
+	display: block;
+	float: right;
+	margin: 0px;
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.share-button {
+	float: right;
+	margin: 0px;
+	padding: 0px;
+}
+
+.share3 {
+	display: block;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+/*
+ * Embed
+*/
+
+p.embed1 {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 16pt;
+	font-weight: bold;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+p.embed2 {
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 10pt;
+	font-weight: normal;
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding: 0px;
+}
+
+div.embed-box-outer {
+	margin: 0px;
+	padding: 0px;
+}
+
+div.embed-box textarea {
+	vertical-align: top;
+	padding: 0px;
+	margin: 0px;
+	border: ridge 3px #000000;
+	font-family: Verdana, Helvetica, Arial;
+	font-size: 8pt;
+}
+
+/*
+ * Archive
+*/
+
+.archive-header {
+	margin: 4px;
+	padding-bottom: 15px;
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	color: #444444;
+	font-size: 16px;
+	font-weight: bold;	
+}
+
+.archive-term {
+	margin: 4px;
+	padding-bottom: 15px;
+	text-align: left;
+	font-family: Verdana, Arial, Helvetica, sans-serif;	
+	color: #444444;
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+.archive-content {
+	margin: 4px;
+	text-align:left;
+}
+
+.archive-entry {
+	font-family:Verdana, Arial, Helvetica, sans-serif;	
+	color: #666666;
+	font-size:10px;
+	margin: 7px;
+	padding-bottom:15px;
+}
+
+.archive-entry .date {
+	font-weight:bold;
+	color:#000;
+}
+
+.archive-entry a.headline {
+	font-size: 10pt;
+	font-weight: bold;	
+	color: #0060b5;
+	text-decoration: none;
+}
+
+.archive-entry a.headline:visited {
+	font-size: 10pt;
+	font-weight: bold;	
+	color: #b95a3a;
+	text-decoration: none;
+}
+
+.archive-content a.more {
+	font-size: 10pt;
+	font-weight: bold;	
+	color: #0060b5;
+	text-decoration: none;
+}
+
+.archive-content a.more:visited {
+	font-size: 10pt;
+	font-weight: bold;	
+	color: #b95a3a;
+	text-decoration: none;
+}
+
+.archive-entry .content {
+	padding-left: 0px;
+}
+
+/*
+ * Paginator
+a.paginator:visited {
+	color: #b95a3a;
+*/
+
+div.paginator {
+	margin: 0px;
+	padding: 0px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;	
+	text-align: center;
+}
+
+a.paginator {
+	font-size: 9pt;
+	font-weight: bold;	
+	color: #0060b5;
+	text-decoration: none;
+}
+
+a.paginator:visited {
+	font-size: 9pt;
+	font-weight: bold;	
+	color: #0060b5;
+	text-decoration: none;
+}
+
+a.paginator:hover {
+	font-size: 9pt;
+	font-weight: bold;	
+	color: #b95a3a;
+	text-decoration: underline;
+}
+
+span.paginator {
+	font-size: 9pt;
+	font-weight: bold;	
+	color: #000000;
+	text-decoration: none;
+}
+
+/*
+ * Scoreboard styles 	;
+*/
+
+.sb_header {
+	font-size: 13pt;
+	font-weight: bold;
+	color: #000000;
+	border: none;
+	font-family: Verdana, Arial, sans-serif;
+}
+
+.sb_table {
+
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	width: 600px;
+	font-family: Verdana, Arial, sans-serif;
+	border:1px solid #047390
+
+}
+
+.sb_header_row {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	width: 100%;
+	overflow: hidden;
+	background-color: #047390;
+	color: #ffffff;
+}
+
+.sb_normal_row {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	width: 100%;
+	background-image: url(/themes/ydkj/images/bg-greylines-tinted.gif);
+	overflow: hidden;
+}
+
+.sb_odd_row {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	width: 100%;
+	overflow: hidden;
+	background-image: url(/themes/ydkj/images/bg-greylines.png);
+	background-repeat: repeat-x;
+}
+
+.sb_my_row {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0px;
+	width: 100%;
+	overflow: hidden;
+	background-image: url(/themes/ydkj/images/bg-lines-tinted-myscore.gif);
+	background-repeat: repeat-x;
+}
+
+.sb_font_header {
+	font-size: 7pt;
+	font-weight: normal;
+	border: none;
+}
+
+.sb_font_contents {
+	font-size: 8pt;
+	font-weight: normal;
+	border: none;
+	font-family: Verdana, Arial, sans-serif
+}
+.sb_disclaimer_body{
+	font-size: 8pt;
+	font-weight: normal;
+	border: none;
+	font-family: Verdana, Arial, sans-serif
+}
+.sb_find_me_link{
+
+}
+
+.sb_big_board_link{
+
+}
+
+.sb_big_board_link_right_holder {
+	text-align: right;
+	line-height: 10pt;
+}
+
+.sb_big_board_link_right {
+	font-size: 7pt;
+	font-weight: normal;
+	border: none;
+	font-family: Verdana, Arial, sans-serif
+}
+
+.sb_user_link{
+	color: #0060b5;
+	font-size: 8pt;
+	font-weight: bold;
+	border: none;
+	underline: none;
+	font-family: Verdana, Arial, sans-serif
+}
+.sb_user_link:visited{
+	color: #b95a3a;
+	font-size: 8pt;
+	font-weight: bold;
+	border: none;
+	underline: none;
+	font-family: Verdana, Arial, sans-serif
+}

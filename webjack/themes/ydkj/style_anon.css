@@ -1,0 +1,7 @@
+/*
+ * Styles for those not logged in
+*/
+
+.comment .links {
+	display: none;
+}
