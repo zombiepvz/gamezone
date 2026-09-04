@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<properties version="1.3">
+	<!-- Developer settings -->
+	<gamesettings>
+		<filename>Main.swf</filename>	<!-- TODO: game filename -->
+		<framerate>35</framerate>	<!-- TODO: game framerate. If 0 loader will auto-detect. -->
+	</gamesettings>
+
+	<!-- Loader settings -->
+	<defaultflashvars>
+		<language>en</language>
+		<country>US</country>
+		<showAds>true</showAds>
+		<hasDownloadable>true</hasDownloadable>
+		<downloadableURL>http://www.zylom.com</downloadableURL>
+		<cheatsEnabled>false</cheatsEnabled>
+	</defaultflashvars>
+
+	<splashscreen fromcdn="true" cdnlocation="http://cdn.ghstatic.com/archives/splash/splashscreenbehavior.xml">
+		<!-- for non Gamehouse/Zylom usage set "fromcdn" to "false" and fill out below info-->
+		<show_splashscreen>true</show_splashscreen>
+		<splashtime>1</splashtime>
+		<betweenimagestime>0</betweenimagestime>
+		<images>
+			<image>splash/gamehouse_640x480.png</image>
+		</images>
+	</splashscreen>
+	
+	<loadingbar>
+		<de-DE>Laden</de-DE><en-US>Loading</en-US><es-ES>Cargando</es-ES><fr-FR>Chargement</fr-FR>
+		<it-IT>Caricamento</it-IT><nl-NL>Laden</nl-NL><pt-BR>Carregando</pt-BR><sv-SE>Laddar</sv-SE>
+	</loadingbar>
+
+	<datagathering>
+		<url_highscore>http://{0}/servlet/GameInfo</url_highscore>
+		<url_datagathering>http://{0}/servlet/DataGathering</url_datagathering>
+		<url_toplist>http://{0}/servlet/ToplistsFrame</url_toplist>
+		<encrypted_postvars>true</encrypted_postvars>
+		<keys>
+			<key datatype="String">visitID</key>
+			<key datatype="Number">skinnedGameID</key>
+			<key datatype="Number">gameSetID</key>
+			<key datatype="Boolean">sound</key>
+			<key datatype="Number">highestLevel</key>
+			<key datatype="Number">highestScore</key>
+			<key datatype="Number">gamesPlayed</key>
+			<key datatype="Number">restarts</key>
+			<key datatype="Number">playTime</key>
+			<key datatype="Number">loadTime</key>
+			<key datatype="Number">idleTime</key>
+		</keys>
+	</datagathering>
+</properties>

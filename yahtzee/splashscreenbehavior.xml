@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<splashscreen_behavior>
+	<!-- fallback origin to use in case the preferred player origin has no entry in this xml -->
+	<defaultOrigin>gamehouse</defaultOrigin>
+
+	<portals>
+		<portal origin="gamehouse">
+			<show_splashscreen>true</show_splashscreen>
+			<backgroundcolor>0x000000</backgroundcolor>
+			<splashtime>3</splashtime>
+			<betweenimagestime>0</betweenimagestime>
+			<images>
+				<image>gamehouse/gamehouse_480x360.png</image>
+			</images>
+		</portal>
+		
+		<portal origin="zylom">
+			<show_splashscreen>true</show_splashscreen>
+			<backgroundcolor>0x000000</backgroundcolor>
+			<splashtime>3</splashtime>
+			<betweenimagestime>0</betweenimagestime>
+			<images>
+				<image>zylom/zylom_480x360.png</image>
+			</images>
+		</portal>
+		
+		<portal origin="atrativa">
+			<show_splashscreen>true</show_splashscreen>
+			<backgroundcolor>0x000000</backgroundcolor>
+			<splashtime>3</splashtime>
+			<betweenimagestime>0</betweenimagestime>
+			<images>
+				<image>atrativa/atrativa_480x360.png</image>
+			</images>
+		</portal>
+	</portals>
+</splashscreen_behavior>
