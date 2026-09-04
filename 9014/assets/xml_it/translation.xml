@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="windows-1252"?>
+<!-- *************  WARNING  ************ -->
+<!-- DO NOT EDIT THIS DOCUMENT DIRECTLY   -->
+<!-- USE THE LOCALIZATION TOOL TO EDIT    -->
+<!-- ************************************ -->
+<strings>
+  <language id="0">american_latin</language>
+  <string id="id_ui_loading_progress" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="0"><![CDATA[Caricamento...$value$]]></string>
+  <string id="id_ui_title_button_help" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Aiuto</i>]]></string>
+  <string id="id_ui_howtoplay_title" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="2"><![CDATA[<i>Come giocare</i>]]></string>
+  <string id="id_ui_howtoplay_button_close" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="2"><![CDATA[<i>Chiudi</i>]]></string>
+  <string id="id_ui_howtoplay_button_next" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="2"><![CDATA[<i>Avanti</i>]]></string>
+  <string id="id_ui_endgame_exit" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Esci</i>]]></string>
+  <string id="id_ui_endgame_replay" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Rigioca</i>]]></string>
+  <string id="id_ui_endgame_next" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Avanti</i>]]></string>
+  <string id="id_ui_hud_button_menu" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="5"><![CDATA[<i>Menu</i>]]></string>
+  <string id="id_ui_hud_score" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[Punteggio: $value$]]></string>
+  <string id="id_ui_popup_menu_title" fontName="fntHoboStd" fontSize="17" charSpace="0" lineSpace="0" catID="6"><![CDATA[<i><b>Menu</b></i>]]></string>
+  <string id="id_ui_popup_menu_button_resume" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="6"><![CDATA[<i>Riprendi</i>]]></string>
+  <string id="id_ui_popup_menu_button_quit" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="6"><![CDATA[<i>Esci</i>]]></string>
+  <string id="id_ui_popup_menu_button_howtoplay" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="6"><![CDATA[<i>Come giocare</i>]]></string>
+  <string id="id_ui_popup_quit_title" fontName="fntHoboStd" fontSize="17" charSpace="0" lineSpace="0" catID="7"><![CDATA[<i><b>Esci</b></i>]]></string>
+  <string id="id_ui_popup_quit_text" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="7"><![CDATA[<b>Vuoi veramente uscire?<br>Se esci ora, i tuoi progressi di gioco<br>andranno persi.</b>]]></string>
+  <string id="id_ui_popup_quit_button_yes" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="7"><![CDATA[<i>Sì</i>]]></string>
+  <string id="id_ui_popup_quit_button_no" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="7"><![CDATA[<i>No</i>]]></string>
+  <string id="id_ui_title_button_classic" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Gioca</i>]]></string>
+  <string id="id_ui_title_button_tournament" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Modalità torneo</i>]]></string>
+  <string id="id_ui_title_button_superyahtzee" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Modalità Super YAHTZEE</i>]]></string>
+  <string id="id_ui_setup_button_back" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="8"><![CDATA[<i>Indietro</i>]]></string>
+  <string id="id_ui_setup_button_play" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="8"><![CDATA[<i>Gioca</i>]]></string>
+  <string id="id_ui_howtoplay_button_previous" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="2"><![CDATA[<i>Precedente</i>]]></string>
+  <string id="id_ui_setup_title" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="8"><![CDATA[<i>Impostazioni di gioco</i>]]></string>
+  <string id="id_ui_ladder_button_back" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i>Indietro</i>]]></string>
+  <string id="id_ui_ladder_button_play" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i>Gioca</i>]]></string>
+  <string id="id_ui_ladder_title" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i>Modalità torneo</i>]]></string>
+  <string id="id_ui_popup_options_button_continue" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="10"><![CDATA[<i>Continua</i>]]></string>
+  <string id="id_ui_popup_options_button_next" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="10"><![CDATA[<i>Avanti</i>]]></string>
+  <string id="id_ui_popup_options_title" fontName="fntHoboStd" fontSize="17" charSpace="0" lineSpace="0" catID="10"><![CDATA[<i><b>Opzioni</b></i>]]></string>
+  <string id="id_ui_popup_options_credits" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="10"><![CDATA[<i>Riconoscimenti</i>]]></string>
+  <string id="id_ui_title_button_options" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Opzioni</i>]]></string>
+  <string id="id_ui_popup_options_vol_sounds_label" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="10"><![CDATA[<b>Suoni</b>]]></string>
+  <string id="id_ui_popup_options_vol_sounds_value" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="10"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_popup_menu_button_options" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="6"><![CDATA[<i>Opzioni</i>]]></string>
+  <string id="id_ui_popup_credits_title" fontName="fntHoboStd" fontSize="17" charSpace="0" lineSpace="0" catID="11"><![CDATA[<i><b>Riconoscimenti</b></i>]]></string>
+  <string id="id_ui_popup_credits_text" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="11"><![CDATA[<b>Hasbro®<br>Electronic Arts™<br>Sarbakan Inc.</b>]]></string>
+  <string id="id_ui_popup_credits_button_back" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="11"><![CDATA[<i>Indietro</i>]]></string>
+  <string id="id_ui_setup_checkbox_wilddice" fontName="fntHoboStd" fontSize="15" charSpace="0" lineSpace="0" catID="8"><![CDATA[<b>Gioca con Dado jolly</b>]]></string>
+  <string id="id_ui_popup_feedback_Lose_text" fontName="fntHoboStd" fontSize="30" charSpace="0" lineSpace="0" catID="12"><![CDATA[<i><b>$value$ vince!</b></i>]]></string>
+  <string id="id_ui_endgame_achievement" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i><b>Obiettivo</b></i>]]></string>
+  <string id="id_ui_endgame_achievementField" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="3"><![CDATA[$value$]]></string>
+  <string id="id_ui_popup_feedback_Win_text" fontName="fntHoboStd" fontSize="30" charSpace="0" lineSpace="0" catID="12"><![CDATA[<i><b>Hai vinto!</b></i>]]></string>
+  <string id="id_ui_popup_feedback_BeatChampion_text" fontName="fntHoboStd" fontSize="30" charSpace="0" lineSpace="0" catID="12"><![CDATA[<i><b>Congratulazioni!</b></i>]]></string>
+  <string id="id_ui_popup_feedback_Yahtzee_text" fontName="fntHoboStd" fontSize="30" charSpace="0" lineSpace="0" catID="12"><![CDATA[<i><b>YAHTZEE!</b></i>]]></string>
+  <string id="id_ui_endgame_name" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i><b>Nome</b></i>]]></string>
+  <string id="id_ui_endgame_score" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i><b>Punteggio</b></i>]]></string>
+  <string id="id_ui_endgame_nameField" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[$value$]]></string>
+  <string id="id_ui_endgame_scoreField" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[$value$]]></string>
+  <string id="id_ui_setup_cpu_Novice" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Principiante]]></string>
+  <string id="id_ui_setup_cpu_Smart" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Intelligente]]></string>
+  <string id="id_ui_setup_cpu_Genius" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Geniale!]]></string>
+  <string id="id_ui_setup_add_new_player" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="8"><![CDATA[<i>Aggiungi avversario</i>]]></string>
+  <string id="id_ui_setup_player_selector_name" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[$value$]]></string>
+  <string id="id_popup_enter_name_player_name" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="13"><![CDATA[<i>$value$</i>]]></string>
+  <string id="id_popup_enter_name_button_continue" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="13"><![CDATA[<i>Continua</i>]]></string>
+  <string id="id_ui_hud_roundDisplay_title" fontName="fntHoboStd" fontSize="12" charSpace="0" lineSpace="0" catID="5"><![CDATA[ROUND]]></string>
+  <string id="id_ui_hud_roundDisplay_number" fontName="fntCalibri" fontSize="17" charSpace="0" lineSpace="0" catID="5"><![CDATA[$value$/$maxRounds$]]></string>
+  <string id="id_ui_hud_display_name" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b><i>$value$</i></b>]]></string>
+  <string id="id_ui_hud_display_category" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_hud_display_score" fontName="fntCalibri" fontSize="10" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>Punteggio: $value$</b>]]></string>
+  <string id="id_ui_hud_scoresheet_section" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[$value$]]></string>
+  <string id="id_ui_popup_options_show_tutorial" fontName="fntHoboStd" fontSize="15" charSpace="0" lineSpace="0" catID="10"><![CDATA[<b>Mostrare il tutorial?</b>]]></string>
+  <string id="id_popup_tutorial_ui_checkbox" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Non mostrare di nuovo</b>]]></string>
+  <string id="id_popup_tutorial_title" fontName="fntHoboStd" fontSize="17" charSpace="0" lineSpace="0" catID="14"><![CDATA[<i><b>Tutorial</b></i>]]></string>
+  <string id="id_ui_endgame_unlockablesField" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="3"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_popup_tutorial_ui_button_skip" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="14"><![CDATA[<i>Ok</i>]]></string>
+  <string id="id_ui_setup_player" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="8"><![CDATA[Giocatore]]></string>
+  <string id="id_popup_tutorial_desc_InitialInfo" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>La partita è composta da 13 round. In ogni round, lanci i dadi e ottieni un punteggio che conteggerai in una delle 13 categorie.<br><br>Devi segnare un punteggio per ogni categoria, il che significa che in alcune categorie potresti ottenere uno zero, se il tuo lancio non risulta in una combinazione qualificante.<br><br>Fai clic sul pulsante Lancia sottostante o sul bicchiere con i dadi per lanciarli.</b>]]></string>
+  <string id="id_popup_tutorial_desc_KeepDice" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Per lanciare nuovamente alcuni dei dadi, fai prima clic sui dadi che vuoi conservare, quindi nuovamente clic sul bicchiere o sul pulsante Lancia.<br><br>In questo modo lancerai nuovamente i dadi non selezionati, lasciando gli altri invariati.</b>]]></string>
+  <string id="id_categories_upper_one" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Uno</b>]]></string>
+  <string id="id_categories_upper_two" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Due</b>]]></string>
+  <string id="id_categories_upper_three" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Tre</b>]]></string>
+  <string id="id_categories_upper_four" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Quattro</b>]]></string>
+  <string id="id_categories_upper_five" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Cinque</b>]]></string>
+  <string id="id_categories_upper_six" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Sei</b>]]></string>
+  <string id="id_categories_upper_subtotal" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Subotale</b>]]></string>
+  <string id="id_categories_upper_bonus" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Bonus</b>]]></string>
+  <string id="id_categories_upper_total" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Totale</b>]]></string>
+  <string id="id_categories_lower_3kind" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>3 dadi uguali</b>]]></string>
+  <string id="id_categories_lower_4kind" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>4 dadi uguali</b>]]></string>
+  <string id="id_categories_lower_fullhouse" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Full</b>]]></string>
+  <string id="id_categories_lower_smstraight" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Scala con 4 dadi</b>]]></string>
+  <string id="id_categories_lower_lgstraight" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Scala con 5 dadi</b>]]></string>
+  <string id="id_categories_lower_yahtzee" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>YAHTZEE</b>]]></string>
+  <string id="id_categories_lower_chance" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Chance</b>]]></string>
+  <string id="id_categories_lower_yahtzee_bonus" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Bonus YAHTZEE</b>]]></string>
+  <string id="id_categories_lower_lower_grandtotal" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[<b>Totale generale</b>]]></string>
+  <string id="id_categories_none" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="15"><![CDATA[]]></string>
+  <string id="id_styles_board_1" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Tabellone di plastica]]></string>
+  <string id="id_achievement_1" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Vinci il match del torneo n°1]]></string>
+  <string id="id_achievement_2" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Vinci il match del torneo n°2]]></string>
+  <string id="id_achievement_3" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Vinci il match del torneo n°3]]></string>
+  <string id="id_achievement_4" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Vinci il match del torneo n°4]]></string>
+  <string id="id_achievement_5" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Vinci il match del torneo n°5]]></string>
+  <string id="id_achievement_6" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Vinci il match del torneo n°6]]></string>
+  <string id="id_achievement_7" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Vinci il match del torneo n°7]]></string>
+  <string id="id_styles_board_2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Tabellone di marmo]]></string>
+  <string id="id_styles_board_3" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Tabellone d'argento]]></string>
+  <string id="id_styles_board_4" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Tabellone d'oro]]></string>
+  <string id="id_styles_cup_1" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Bicchiere di plastica]]></string>
+  <string id="id_styles_cup_2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Bicchiere di marmo]]></string>
+  <string id="id_styles_cup_3" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Bicchiere d'argento]]></string>
+  <string id="id_styles_cup_4" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Bicchiere d'oro]]></string>
+  <string id="id_styles_dice_1" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Dadi di plastica]]></string>
+  <string id="id_styles_dice_2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Dadi di marmo]]></string>
+  <string id="id_styles_dice_3" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Dadi d'argento]]></string>
+  <string id="id_styles_dice_4" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[Dadi d'oro]]></string>
+  <string id="id_ui_popup_network_title" fontName="fntHoboStd" fontSize="17" charSpace="0" lineSpace="0" catID="18"><![CDATA[<i><b>Problemi di rete</b></i>]]></string>
+  <string id="id_ui_popup_network_text" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="18"><![CDATA[<b>II server sta riscontrando delle difficoltà. Riprova più tardi.</b>]]></string>
+  <string id="id_ui_popup_feedback_Yahtzee_Opponent_text" fontName="fntHoboStd" fontSize="20" charSpace="0" lineSpace="0" catID="12"><![CDATA[<i><b>YAHTZEE!</b></i>]]></string>
+  <string id="id_score_card_UpperSection" fontName="fntHoboStd" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>PARTE SUPERIORE</b>]]></string>
+  <string id="id_score_card_Aces" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Uno]]></string>
+  <string id="id_score_card_Twos" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Due]]></string>
+  <string id="id_score_card_Threes" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Tre]]></string>
+  <string id="id_score_card_Fours" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Quattro]]></string>
+  <string id="id_score_card_Fives" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Cinque]]></string>
+  <string id="id_score_card_Sixes" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Sei]]></string>
+  <string id="id_score_card_1" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[=1]]></string>
+  <string id="id_score_card_2" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[=2]]></string>
+  <string id="id_score_card_3" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[=3]]></string>
+  <string id="id_score_card_4" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[=4]]></string>
+  <string id="id_score_card_5" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[=5]]></string>
+  <string id="id_score_card_6" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[=6]]></string>
+  <string id="id_score_card_UpperSubtotal" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>PUNTI TOTALI</b>]]></string>
+  <string id="id_score_card_Bonus" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>BONUS</b>]]></string>
+  <string id="id_score_card_UpperTotal" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>TOTALE</b>]]></string>
+  <string id="id_score_card_LowerSection" fontName="fntHoboStd" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>PARTE INFERIORE</b>]]></string>
+  <string id="id_score_card_3kind" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[3 dadi uguali]]></string>
+  <string id="id_score_card_4kind" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[4 dadi uguali]]></string>
+  <string id="id_score_card_fullhouse" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>Full</b>]]></string>
+  <string id="id_score_card_smallStraight" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Scala con 4 dadi]]></string>
+  <string id="id_score_card_largeStraight" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Scala con 5 dadi]]></string>
+  <string id="id_score_card_yahtzee" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>YAHTZEE</b>]]></string>
+  <string id="id_score_card_chance" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[Chance]]></string>
+  <string id="id_score_card_yahtzeeBonus" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>BONUS YAHTZEE</b>]]></string>
+  <string id="id_score_card_grandTotal" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="19"><![CDATA[<b>TOTALE GENERALE</b>]]></string>
+  <string id="id_ui_hud_display_category_pts" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_hud_display_standing_position" fontName="fntCalibri" fontSize="20" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_hud_display_standing_FIRST" fontName="fntCalibri" fontSize="10" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>PRIMO</b>]]></string>
+  <string id="id_ui_hud_display_standing_SECOND" fontName="fntCalibri" fontSize="10" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>SECONDO</b>]]></string>
+  <string id="id_ui_hud_display_standing_THIRD" fontName="fntCalibri" fontSize="10" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>TERZO</b>]]></string>
+  <string id="id_ui_hud_display_standing_FOURTH" fontName="fntCalibri" fontSize="10" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>QUARTO</b>]]></string>
+  <string id="id_ui_hud_display_standing_place" fontName="fntCalibri" fontSize="10" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>POSTO</b>]]></string>
+  <string id="id_ui_hud_turn1" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>1</b>]]></string>
+  <string id="id_ui_hud_turn2" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>2</b>]]></string>
+  <string id="id_ui_hud_turn3" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>3</b>]]></string>
+  <string id="id_ui_hud_button_roll" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="5"><![CDATA[Lancia]]></string>
+  <string id="id_ui_hud_gameMode_Classic" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[GIOCA]]></string>
+  <string id="id_ui_hud_gameMode_Tournament" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[TORNEO]]></string>
+  <string id="id_how_to_score_buttonOpen" fontName="fntHoboStd" fontSize="14" charSpace="0" lineSpace="0" catID="20"><![CDATA[<b>COME CONTEGGIARE</b>]]></string>
+  <string id="id_how_to_score_aces" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare solo gli Uno]]></string>
+  <string id="id_how_to_score_twos" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare solo i Due]]></string>
+  <string id="id_how_to_score_threes" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare solo i Tre]]></string>
+  <string id="id_how_to_score_fours" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare solo i Quattro]]></string>
+  <string id="id_how_to_score_fives" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare solo i Cinque]]></string>
+  <string id="id_how_to_score_sixes" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare solo i Sei]]></string>
+  <string id="id_how_to_score_score" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[$value$ PUNTI]]></string>
+  <string id="id_how_to_score_3_4_kind" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare tutti i dadi]]></string>
+  <string id="id_how_to_score_chance" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[Sommare tutti i 5 dadi]]></string>
+  <string id="id_ui_popup_options_set_Item" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="10"><![CDATA[<i><b>$value$</b></i>]]></string>
+  <string id="id_ui_popup_options_set_Desc" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="10"><![CDATA[$value$]]></string>
+  <string id="id_ui_popup_options_set_Lock" fontName="fntCalibri" fontSize="15" charSpace="0" lineSpace="0" catID="10"><![CDATA[<i>Bloccato</i>]]></string>
+  <string id="id_styles_set1" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[<b>Set di plastica</b>]]></string>
+  <string id="id_styles_set2" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[<b>Set di marmo</b>]]></string>
+  <string id="id_styles_set3" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[<b>Set d'argento</b>]]></string>
+  <string id="id_styles_set4" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="17"><![CDATA[<b>Set d'oro</b>]]></string>
+  <string id="id_achievement_none" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Posseduto all'inizio]]></string>
+  <string id="id_unlockable_wild" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Modalità Dado jolly]]></string>
+  <string id="id_unlockable_Novice" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Avversario inesperto]]></string>
+  <string id="id_unlockable_Smart" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Avversario intelligente]]></string>
+  <string id="id_unlockable_Genius" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="16"><![CDATA[Avversario geniale]]></string>
+  <string id="id_ui_ladder_match_title" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i>Match $value$</i>]]></string>
+  <string id="id_ui_ladder_match_highscore" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i><b>Il tuo record: $value$</b></i>]]></string>
+  <string id="id_ui_ladder_match_opponents" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="9"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_ladder_match_unlockables" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="9"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_ladder_match_settings" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="9"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_ladder_match_settingsTitle" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i><b>Impostazioni</b></i>]]></string>
+  <string id="id_ui_ladder_match_unlockablesTitle" fontName="fntHoboStd" fontSize="16" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i><b>Sbloccabili</b></i>]]></string>
+  <string id="id_ui_ladder_match_settings_wild" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="9"><![CDATA[Modalità Dado jolly]]></string>
+  <string id="id_ui_ladder_match_settings_normal" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="9"><![CDATA[Modalità normale]]></string>
+  <string id="id_ui_popup_options_set_Unlock" fontName="fntCalibri" fontSize="15" charSpace="0" lineSpace="0" catID="10"><![CDATA[<i>Sbloccato</i>]]></string>
+  <string id="id_popup_enter_name_title" fontName="fntHoboStd" fontSize="17" charSpace="0" lineSpace="0" catID="13"><![CDATA[<i><b>Immetti il tuo nome</b></i>]]></string>
+  <string id="id_popup_tutorial_desc_Tournament" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Benvenuti al torneo YAHTZEE!<br>In questo prestigioso evento, degli avversari si sfidano per ottenere il diritto ad affrontare il campione in carica.<br><br>Usa tutta la tua astuzia e la tua forza per trionfare, sfidando ogni probabilità! Buona fortuna!</b>]]></string>
+  <string id="id_popup_tutorial_desc_ViewOpponent" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Ora che un round è stato completato, puoi dare un'occhiata al segnapunti del tuo avversario.<br><br>Muoviti sopra alla targhetta con il nome di un avversario per vedere il suo segnapunti.</b>]]></string>
+  <string id="id_popup_enter_name_error_nameUsed" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="13"><![CDATA[Questo nome è già in uso.]]></string>
+  <string id="id_popup_enter_name_error_nameInvalid" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="13"><![CDATA[Nome non valido.]]></string>
+  <string id="id_popup_enter_name_error_charUsed" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="13"><![CDATA[Il nome non può contenere spazi.]]></string>
+  <string id="id_popup_enter_name_error_nameEmpty" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="13"><![CDATA[Inserisci un nome]]></string>
+  <string id="id_ui_hud_button_end" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="5"><![CDATA[<i>Avanti</i>]]></string>
+  <string id="id_how_to_score_upperBonus" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="20"><![CDATA[$value$ punti o più]]></string>
+  <string id="id_ui_title_tooltip_help" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Come giocare</i>]]></string>
+  <string id="id_ui_title_tooltip_classic" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Prova il Classico gioco YAHTZEE!</i>]]></string>
+  <string id="id_ui_title_tooltip_tournament" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Scala la classifica del torneo</i>]]></string>
+  <string id="id_ui_title_tooltip_superyahtzee" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Gioca la modalità Super YAHTZEE</i>]]></string>
+  <string id="id_ui_title_tooltip_options" fontName="fntCalibri" fontSize="12" charSpace="0" lineSpace="0" catID="1"><![CDATA[<i>Modifica le impostazioni di gioco</i>]]></string>
+  <string id="id_ui_howtoplay_goal_text1" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[La partita è composta da 13 round. In ogni round, lanci i dadi e ottieni un punteggio che conteggerai in una delle 13 categorie. Devi segnare un punteggio per ogni categoria, il che significa che in alcune categorie potresti ottenere uno zero, se il tuo lancio non risulta in una combinazione qualificante.]]></string>
+  <string id="id_ui_howtoplay_goal_text2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Lo scopo del gioco è ottenere il punteggio più alto. Il gioco si conclude quando è stato ottenuto un punteggio per ognuna delle 13 categorie.]]></string>
+  <string id="id_ui_howtoplay_goal_Title" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="2"><![CDATA[<i><b>OBIETTIVO</b></i>]]></string>
+  <string id="id_ui_howtoplay_roll_title" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="2"><![CDATA[<i><b>LANCIARE I DADI</b></i>]]></string>
+  <string id="id_ui_howtoplay_roll_text1" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Lancia tutti e cinque i dadi facendo clic sul bicchiere sul lato destro dello schermo, o sul pulsante Lancia sottostante. Dopo aver lanciato i dadi, puoi mantenere il punteggio ottenuto oppure lanciare nuovamente tutti o alcuni dei dadi.]]></string>
+  <string id="id_ui_howtoplay_roll_text2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Per lanciare nuovamente alcuni dei dadi, fai prima clic sui dadi che vuoi conservare, quindi nuovamente clic sul bicchiere o sul pulsante Lancia. In questo modo lancerai nuovamente i dadi non selezionati, lasciando gli altri invariati.]]></string>
+  <string id="id_ui_howtoplay_roll_text3" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Puoi lanciare i dadi al massimo 3 volte per round. ]]></string>
+  <string id="id_ui_howtoplay_tips_title" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="2"><![CDATA[<i><b>DRITTE</b></i>]]></string>
+  <string id="id_ui_howtoplay_tips_text1" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Cerca di riempire le categorie dal punteggio più alto (parte bassa del segnapunti) all'inizio del gioco. Cinque assi ottenuti all'inizio sarebbero meglio se utilizzati per uno YAHTZEE (50 punti) che per gli Uno (solo 5 punti). Ricorda che puoi usare Chance, Uno o Due per conteggiare un punteggio basso e recuperare in seguito.]]></string>
+  <string id="id_ui_howtoplay_tips_text2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Può essere utile conteggiare 4 dadi uguali nella parte alta del segnapunti se si ottengono 4, 5 o 6, visti i 35 punti bonus quando si totalizzano 63 o più punti nella parte alta del segnapunti.]]></string>
+  <string id="id_ui_howtoplay_tips_text3" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Cerca di ottenere una Scala con 5 dadi se ottieni una Scala con 4 dadi al primo lancio e ti servono soltanto un 1 o un 6 per completarla. Le possibilità di lanciare un 1 o un 6 nei due lanci successivi sono più alte di quanto pensi!]]></string>
+  <string id="id_ui_howtoplay_tips_text4" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[Cerca di ottenere degli YAHTZEE, ma cerca di tenere la categoria corrispondente nella parte superiore vuota, per recuperare se non li ottieni. Evita di segnare uno 0 per YAHTZEE, se puoi!]]></string>
+  <string id="id_ui_howtoplay_tips_text5" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="2"><![CDATA[La migliore categoria presente sul segnapunti è Chance, cerca di tenerla libera il più a lungo possibile, per utilizzarla in caso dell'inevitabile lancio cattivo. Se non altro, potrai utilizzarla per evitare uno zero in una delle categorie di valore più alto, come Scala con 5 dadi o YAHTZEE.]]></string>
+  <string id="id_ui_endgame_title_Win_Line1" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Ottimo match!</i>]]></string>
+  <string id="id_ui_endgame_title_Win_Line2" fontName="fntHoboStd" fontSize="12" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Hai vinto!</i>]]></string>
+  <string id="id_ui_endgame_title_WinChamp_Line1" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Complimenti!</i>]]></string>
+  <string id="id_ui_endgame_title_WinChamp_Line2" fontName="fntHoboStd" fontSize="12" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Sei il nuovo<br>campione di YAHTZEE!</i>]]></string>
+  <string id="id_ui_endgame_title_Lose_Line1" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Non arrenderti, giochiamo</i>]]></string>
+  <string id="id_ui_endgame_title_Lose_Line2" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>un altro match!</i>]]></string>
+  <string id="id_popup_tutorial_desc_Turn2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Se il tuo lancio attuale ti soddisfa, seleziona una categoria in cui conteggiarlo.<br><br>Altrimenti, hai ancora un terzo lancio.</b>]]></string>
+  <string id="id_ui_loading_building" fontName="fntCalibri" fontSize="18" charSpace="0" lineSpace="0" catID="0"><![CDATA[Ottimizzazione...$value$]]></string>
+  <string id="id_ui_ladder_match_opponentsLabel" fontName="fntHoboStd" fontSize="20" charSpace="0" lineSpace="0" catID="9"><![CDATA[<i><b>Avversari</b></i>]]></string>
+  <string id="id_ui_title_tooltip_copyright" fontName="fntCalibri" fontSize="14" charSpace="0" lineSpace="0" catID="1"><![CDATA[<b>YAHTZEE è un marchio registrato Hasbro e viene usato con il suo permesso. ©2011 Hasbro. Tutti i diritti riservati.</b>]]></string>
+  <string id="id_ui_hud_display_name2" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b><i>$value$</i></b>]]></string>
+  <string id="id_popup_tutorial_desc_Round3" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Inizi a capire come funziona!<br><br>Continua a lanciare e cerca di ottenere il punteggio più alto possibile, non solo per ogni round, ma in tutta la partita.</b>]]></string>
+  <string id="id_popup_tutorial_desc_BonusYahtzee" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Hai appena ottenuto un Bonus YAHTZEE!<br><br>Per ogni YAHTZEE in più lanciato, ottieni 100 punti bonus! Inoltre, se la categoria corrispondente nella parte superiore del segnapunti è già stata riempita, puoi usare questo lancio come jolly per riempire una categoria qualsiasi della parte inferiore.</b>]]></string>
+  <string id="id_ui_hud_display_categoryBonus" fontName="fntCalibri" fontSize="11" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>+$value$</b>]]></string>
+  <string id="id_ui_hud_display_category_ptsBonus" fontName="fntCalibri" fontSize="11" charSpace="0" lineSpace="0" catID="5"><![CDATA[<b>$value$</b>]]></string>
+  <string id="id_ui_popup_feedback_WinSolo_text" fontName="fntHoboStd" fontSize="30" charSpace="0" lineSpace="0" catID="12"><![CDATA[<i><b>Ottima partita!</b></i>]]></string>
+  <string id="id_ui_endgame_title_WinSolo_Line1" fontName="fntHoboStd" fontSize="18" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Ottimo punteggio!</i>]]></string>
+  <string id="id_ui_endgame_title_WinSolo_Line2" fontName="fntHoboStd" fontSize="12" charSpace="0" lineSpace="0" catID="3"><![CDATA[<i>Cerca di fare meglio la prossima volta!</i>]]></string>
+  <string id="id_popup_tutorial_desc_WildDie" fontName="fntCalibri" fontSize="16" charSpace="0" lineSpace="0" catID="14"><![CDATA[<b>Ottieni un Dado jolly!<br><br>Il Dado jolly può sostituire qualsiasi numero desideri. Assicurati di combinarlo con qualsiasi dado vuoi utilizzare quando fai clic su una categoria per conteggiare il tuo lancio.</b>]]></string>
+  <string id="id_ui_hud_bestScore_title" fontName="fntHoboStd" fontSize="12" charSpace="0" lineSpace="0" catID="5"><![CDATA[MIGLIOR PUNTEGGIO]]></string>
+  <string id="id_ui_hud_bestScore" fontName="fntCalibri" fontSize="17" charSpace="0" lineSpace="0" catID="5"><![CDATA[$value$]]></string>
+  <string id="id_ui_popup_feedback_BeatChampion_subtext" fontName="fntHoboStd" fontSize="20" charSpace="0" lineSpace="0" catID="12"><![CDATA[<i><b>Sei il nuovo campione YAHTZEE!</b></i>]]></string>
+  <categories>
+    <category id="0">Loading</category>
+    <category id="1">Title</category>
+    <category id="2">How to play</category>
+    <category id="3">EndGame</category>
+    <category id="5">Hud</category>
+    <category id="6">Popup menu</category>
+    <category id="7">Popup quit</category>
+    <category id="8">Setup</category>
+    <category id="9">Ladder</category>
+    <category id="10">Popup options</category>
+    <category id="11">Credits</category>
+    <category id="12">Popup feedback</category>
+    <category id="13">Popup EnterName</category>
+    <category id="14">Popup Tutorial</category>
+    <category id="15">Categories</category>
+    <category id="16">Achievement</category>
+    <category id="17">Styles</category>
+    <category id="18">Popup Network</category>
+    <category id="19">Score Card</category>
+    <category id="20">How To Score</category>
+  </categories>
+</strings>
