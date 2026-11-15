@@ -1,0 +1,18 @@
+{
+    "name": "Poppit!™",
+	"version": "1.0.5",
+    "description": "The prickly puzzle game where popping balloons has never been so much fun! Pop colorful strings of balloons to earn a bonus!",
+    "launch_path": "/index.html",
+    "icons": {
+        "30": "/img/PoppitLogo_30.png",
+        "60": "/img/PoppitLogo_60.png",
+		"128": "/img/PoppitLogo_128.png"
+    },
+    "developer": {
+        "name":"Electronic Arts",
+        "url":"http://www.ea.com"
+    },
+    "default_locale": "en",
+    "fullscreen": "true",
+    "orientation": ["landscape"]
+}

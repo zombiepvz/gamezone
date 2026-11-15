@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SkillChangeNewGameAlertNoText</key>
+	<string>No</string>
+	<key>SkillChangeNewGameAlertText</key>
+	<string>Changing skill level will erase current progress. Do you want to change skill level?</string>
+	<key>SkillChangeNewGameAlertTitle</key>
+	<string>Change Skill Level</string>
+	<key>SkillChangeNewGameAlertYesText</key>
+	<string>Yes</string>
+	<key>StartNewGameAlertNoText</key>
+	<string>No</string>
+	<key>StartNewGameAlertText</key>
+	<string>Starting a new game will erase current progress. Do you want to start a new game?</string>
+	<key>StartNewGameAlertTitle</key>
+	<string>Start New Game</string>
+	<key>StartNewGameAlertYesText</key>
+	<string>Yes</string>
+	<key>aboutText</key>
+	<string>About</string>
+	<key>anvilPowerupReleased</key>
+	<string>You just got the Anvil Powerup. Use it to move a column down by one row.</string>
+	<key>backText</key>
+	<string>Back</string>
+	<key>balloonsLeftText</key>
+	<string>or Less Balloons</string>
+	<key>bestScoreText</key>
+	<string>Your Best Score</string>
+	<key>easyText</key>
+	<string>Easy</string>
+	<key>endOfGameBalloonsRemain</key>
+	<string>You released all %i prizes! Pop all the balloons for a bonus.</string>
+	<key>endOfGameFailed</key>
+	<string>Nice game! You released %i out of %i prizes available. Release all prizes to win!</string>
+	<key>endOfGameWon</key>
+	<string>You released all %i prizes! </string>
+	<key>firstGameStart</key>
+	<string>Instructions:
+- Touch 2 or more adjacent balloons of the same color to pop them.
+- Release all the prizes to win.</string>
+	<key>firstPrizeReleased</key>
+	<string>Land the prize on the target by tilting, or by moving the target with your finger.</string>
+	<key>gameHintTextItems</key>
+	<array>
+		<string>Touch adjacent balloons of the same color to pop them.</string>
+		<string>Release all the prizes to win!</string>
+		<string>Catch falling prizes on the target.</string>
+		<string>Touch the target to move it, or tilt to move the prizes.</string>
+		<string>The game ends when you are out of moves.</string>
+		<string>The Push Pin powerup lets you pop a single balloon.</string>
+		<string>The Anvil powerup shifts a column down by a single row.</string>
+		<string>Change difficulty in the Options tab, in the game menu.</string>
+		<string>There is an Undo button. Use it as much as you want!</string>
+		<string>For big scores, try to get SUPER-POPS!</string>
+	</array>
+	<key>hardText</key>
+	<string>Hard</string>
+	<key>helpText</key>
+	<dict>
+		<key>helpBasics</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonBasics</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderBasics</string>
+			<key>htmlFilename</key>
+			<string>PoppitBasicsHelp.html</string>
+			<key>title</key>
+			<string>Basics</string>
+		</dict>
+		<key>helpGameplay</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonGameplay</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderGameplay</string>
+			<key>htmlFilename</key>
+			<string>PoppitGameplayHelp.html</string>
+			<key>title</key>
+			<string>Gameplay</string>
+		</dict>
+		<key>helpSkillLevels</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonSkillLevel</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderSkillLevels</string>
+			<key>htmlFilename</key>
+			<string>PoppitSkillLevelsHelp.html</string>
+			<key>title</key>
+			<string>Skill Levels</string>
+		</dict>
+		<key>helpTips</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonTips</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderTips</string>
+			<key>htmlFilename</key>
+			<string>PoppitTipsHelp.html</string>
+			<key>title</key>
+			<string>Tips</string>
+		</dict>
+	</dict>
+	<key>hideMessageText</key>
+	<string>Do not show again</string>
+	<key>howToPlayText</key>
+	<string>How to Play</string>
+	<key>mainMenuText</key>
+	<string>Main Menu</string>
+	<key>mediumText</key>
+	<string>Medium</string>
+	<key>menuText</key>
+	<string>Menu</string>
+	<key>messageDoNotShowAgainText</key>
+	<string>Do not show again</string>
+	<key>newGameText</key>
+	<string>New Game</string>
+	<key>okText</key>
+	<string>OK</string>
+	<key>optionsText</key>
+	<string>Options</string>
+	<key>pinPowerupReleased</key>
+	<string>You just got the Push Pin Powerup. Use it to pop a single balloon.</string>
+	<key>popAllBalloonsTextString</key>
+	<string>+%i Complete!</string>
+	<key>prizeReleasedMissedTarget</key>
+	<string>Land the prize on the target by tilting, or by moving the target with your finger.</string>
+	<key>prizesReleasedText</key>
+	<string>Prizes Released</string>
+	<key>quitText</key>
+	<string>Quit</string>
+	<key>rankSignFormatText</key>
+	<string>Rank %i</string>
+	<key>resetMessagesText</key>
+	<string>Reset Messages</string>
+	<key>ressetMessagesAlertText</key>
+	<string>All messages have been reset!</string>
+	<key>ressetMessagesAlertTitle</key>
+	<string>Reset</string>
+	<key>resumeGameText</key>
+	<string>Resume Game</string>
+	<key>scoreBalloonLabelText</key>
+	<string>Score</string>
+	<key>singleBalloonRelease</key>
+	<string>Single balloons won't pop. Touch 2 or more adjacent balloons of the same color to pop them.</string>
+	<key>skillLevelText</key>
+	<string>Skill Level</string>
+	<key>splashContinueText</key>
+	<string>Tap To Begin</string>
+	<key>summaryScreenBalloonsPopped</key>
+	<string>You popped %i balloons.</string>
+	<key>summaryScreenGuestRankMessage</key>
+	<string>Create a free account to earn Ranks!</string>
+	<key>summaryScreenMaxRankProgressMessage</key>
+	<string>You've reached the maximum rank!</string>
+	<key>summaryScreenOfflineRankMessage</key>
+	<string>Rank information is not available.</string>
+	<key>summaryScreenPrizesReleased</key>
+	<string>You released %i out of %i prizes available.</string>
+	<key>summaryScreenRankProgressMessage</key>
+	<string>Pop %i more balloons to reach Rank %i.</string>
+	<key>summaryScreenScoreLabel</key>
+	<string>Score</string>
+	<key>summaryScreenUnusedPowerupsLabel</key>
+	<string>Extra Powerups</string>
+	<key>superPopBonusText</key>
+	<string>SUPER-POP! Bonus</string>
+	<key>superPopScoreTextString</key>
+	<string>SUPER-POP! +%i</string>
+	<key>tickerMessageAnvilReleased</key>
+	<string>You got an Anvil Powerup!</string>
+	<key>tickerMessageGameEndPrizesRemain</key>
+	<string>You didn't finish the board, try again.</string>
+	<key>tickerMessageGameWon</key>
+	<string>Congratulations, all prizes were released!</string>
+	<key>tickerMessagePinReleased</key>
+	<string>You got a Push Pin Powerup!</string>
+	<key>tickerMessagePopAllBalloons</key>
+	<string>You popped all remaining balloons!</string>
+	<key>tickerMessagePrizeReleased</key>
+	<string>You released the %@ prize!</string>
+	<key>tickerMessageSuperpop</key>
+	<string>You got a SUPER-POP!</string>
+	<key>tickerMessageTargetBonus</key>
+	<string>Target Bonus!</string>
+	<key>tickerMessageTiltTargetBonus</key>
+	<string>Tilt Bonus!</string>
+	<key>totalScoreText</key>
+	<string>TOTAL SCORE</string>
+	<key>undoText</key>
+	<string>Undo</string>
+	<key>unusedPowerUpsText</key>
+	<string>Unused Power Ups</string>
+	<key>winText</key>
+	<string>YOU RELEASED ALL THE PRIZES!</string>
+	<key>eulaText1</key>
+	<string>End User</string>
+	<key>eulaText2</key>
+	<string>License Agreement</string>
+	<key>privacyText</key>
+	<string>Privacy Policy</string>
+	<key>tosText</key>
+	<string>Terms of Service</string>
+</dict>
+</plist>

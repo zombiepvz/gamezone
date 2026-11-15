@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SkillChangeNewGameAlertNoText</key>
+	<string>Não</string>
+	<key>SkillChangeNewGameAlertText</key>
+	<string>Alterar o nível de habilidade irá apagar o seu progresso atual. Deseja alterar o nível de habilidade?</string>
+	<key>SkillChangeNewGameAlertTitle</key>
+	<string>Alterar nível de habilidade</string>
+	<key>SkillChangeNewGameAlertYesText</key>
+	<string>Sim</string>
+	<key>StartNewGameAlertNoText</key>
+	<string>Não</string>
+	<key>StartNewGameAlertText</key>
+	<string>Iniciar um novo jogo irá apagar o seu progresso atual. Deseja iniciar um novo jogo?</string>
+	<key>StartNewGameAlertTitle</key>
+	<string>Iniciar novo jogo</string>
+	<key>StartNewGameAlertYesText</key>
+	<string>Sim</string>
+	<key>aboutText</key>
+	<string>Acerca de</string>
+	<key>anvilPowerupReleased</key>
+	<string>Você ganhou o poder da bigorna. Use-o para mover uma coluna uma linha para baixo.</string>
+	<key>backText</key>
+	<string>Voltar</string>
+	<key>balloonsLeftText</key>
+	<string>ou menos balões</string>
+	<key>bestScoreText</key>
+	<string>Sua melhor pontuação</string>
+	<key>easyText</key>
+	<string>Fácil</string>
+	<key>endOfGameBalloonsRemain</key>
+	<string>Você liberou todos os %i prêmios! Estoure todos os balões para obter um bônus.</string>
+	<key>endOfGameFailed</key>
+	<string>Belo jogo! Você liberou %i dos %i prêmios disponíveis. Libere todos os prêmios para vencer!</string>
+	<key>endOfGameWon</key>
+	<string>Você liberou todos os %i prêmios!</string>
+	<key>firstGameStart</key>
+	<string>Instruções:
+- Toque em 2 ou mais balões adjacentes da mesma cor para estourá-los.
+- Libere todos os prêmios para vencer.</string>
+	<key>firstPrizeReleased</key>
+	<string>Pouse o prêmio no alvo inclinando ou movendo o alvo com o dedo.</string>
+	<key>gameHintTextItems</key>
+	<array>
+		<string>Toque em balões adjacentes da mesma cor para estourá-los.</string>
+		<string>Libere todos os prêmios para vencer!</string>
+		<string>Acerte os prêmios no alvo.</string>
+		<string>Toque no alvo para movê-lo ou incline para mover os prêmios.</string>
+		<string>O jogo termina quando você não tem mais movimentos.</string>
+		<string>O poder da tachinha permite que você estoure um balão.</string>
+		<string>O poder da bigorna move uma coluna uma linha para baixo.</string>
+		<string>Mude a dificuldade na guia Opções, no menu do jogo.</string>
+		<string>Existe um botão Desfazer. Use o quanto quiser!</string>
+		<string>Tente obter SUPER ESTOUROS para marcar mais pontos!</string>
+	</array>
+	<key>hardText</key>
+	<string>Difícil</string>
+	<key>helpText</key>
+	<dict>
+		<key>helpBasics</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonBasics</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderBasics</string>
+			<key>htmlFilename</key>
+			<string>PoppitBasicsHelpPT.html</string>
+			<key>title</key>
+			<string>Básico</string>
+		</dict>
+		<key>helpGameplay</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonGameplay</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderGameplay</string>
+			<key>htmlFilename</key>
+			<string>PoppitGameplayHelpPT.html</string>
+			<key>title</key>
+			<string>Mecânica de jogo</string>
+		</dict>
+		<key>helpSkillLevels</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonSkillLevel</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderSkillLevels</string>
+			<key>htmlFilename</key>
+			<string>PoppitSkillLevelsHelpPT.html</string>
+			<key>title</key>
+			<string>Níveis de habilidade</string>
+		</dict>
+		<key>helpTips</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonTips</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderTips</string>
+			<key>htmlFilename</key>
+			<string>PoppitTipsHelpPT.html</string>
+			<key>title</key>
+			<string>Dicas</string>
+		</dict>
+	</dict>
+	<key>hideMessageText</key>
+	<string>Não mostrar novamente</string>
+	<key>howToPlayText</key>
+	<string>Como jogar</string>
+	<key>mainMenuText</key>
+	<string>Menu principal</string>
+	<key>mediumText</key>
+	<string>Médio</string>
+	<key>menuText</key>
+	<string>Menu</string>
+	<key>messageDoNotShowAgainText</key>
+	<string>Não mostrar novamente</string>
+	<key>newGameText</key>
+	<string>Novo jogo</string>
+	<key>okText</key>
+	<string>OK</string>
+	<key>optionsText</key>
+	<string>Opções</string>
+	<key>pinPowerupReleased</key>
+	<string>Você ganhou o poder da tachinha. Use-o para estourar um único balão.</string>
+	<key>popAllBalloonsTextString</key>
+	<string>+ %i completos!</string>
+	<key>prizeReleasedMissedTarget</key>
+	<string>Pouse o prêmio no alvo inclinando ou movendo o alvo com o dedo.</string>
+	<key>prizesReleasedText</key>
+	<string>Prêmios liberados</string>
+	<key>quitText</key>
+	<string>Sair</string>
+	<key>rankSignFormatText</key>
+	<string>%ia posição</string>
+	<key>resetMessagesText</key>
+	<string>Redefinir mensagens</string>
+	<key>ressetMessagesAlertText</key>
+	<string>Todas as mensagens foram redefinidas!</string>
+	<key>ressetMessagesAlertTitle</key>
+	<string>Redefinir</string>
+	<key>resumeGameText</key>
+	<string>Continuar o jogo</string>
+	<key>scoreBalloonLabelText</key>
+	<string>pontuação</string>
+	<key>singleBalloonRelease</key>
+	<string>Balões individuais não irão estourar. Toque em 2 ou mais balões adjacentes da mesma cor para estourá-los.</string>
+	<key>skillLevelText</key>
+	<string>Nível de habilidade</string>
+	<key>splashContinueText</key>
+	<string>Toque para começar</string>
+	<key>summaryScreenBalloonsPopped</key>
+	<string>Você estourou %i balões.</string>
+	<key>summaryScreenGuestRankMessage</key>
+	<string>Crie uma conta grátis para ganhar posições!</string>
+	<key>summaryScreenMaxRankProgressMessage</key>
+	<string>Você alcançou a classificação máxima!</string>
+	<key>summaryScreenOfflineRankMessage</key>
+	<string>As informações sobre classificação não estão disponíveis.</string>
+	<key>summaryScreenPrizesReleased</key>
+	<string>Você liberou %i dos %i prêmios disponíveis.</string>
+	<key>summaryScreenRankProgressMessage</key>
+	<string>Estoure mais %i balões para alcançar a %ia posição.</string>
+	<key>summaryScreenScoreLabel</key>
+	<string>Pontuação</string>
+	<key>summaryScreenUnusedPowerupsLabel</key>
+	<string>Poderes extras</string>
+	<key>superPopBonusText</key>
+	<string>SUPER ESTOURO! Bônus</string>
+	<key>superPopScoreTextString</key>
+	<string>SUPER ESTOURO + %i</string>
+	<key>tickerMessageAnvilReleased</key>
+	<string>Você ganhou um poder de bigorna!</string>
+	<key>tickerMessageGameEndPrizesRemain</key>
+	<string>Você não completou o tabuleiro, tente de novo.</string>
+	<key>tickerMessageGameWon</key>
+	<string>Parabéns, todos os prêmios foram liberados!</string>
+	<key>tickerMessagePinReleased</key>
+	<string>Você ganhou um poder de tachinha!</string>
+	<key>tickerMessagePopAllBalloons</key>
+	<string>Você estourou todos os balões restantes!</string>
+	<key>tickerMessagePrizeReleased</key>
+	<string>Você liberou o prêmio %@!</string>
+	<key>tickerMessageSuperpop</key>
+	<string>Você ganhou um SUPER ESTOURO!</string>
+	<key>tickerMessageTargetBonus</key>
+	<string>Bônus de alvo!</string>
+	<key>tickerMessageTiltTargetBonus</key>
+	<string>Bônus de inclinação!</string>
+	<key>totalScoreText</key>
+	<string>PONTUAÇÃO TOTAL</string>
+	<key>undoText</key>
+	<string>Desfazer</string>
+	<key>unusedPowerUpsText</key>
+	<string>Poderes não usados</string>
+	<key>winText</key>
+	<string>VOCÊ LIBEROU TODOS OS PRÊMIOS!</string>
+	<key>eulaText1</key>
+	<string>Contrato de Licença</string>
+	<key>eulaText2</key>
+	<string></string>
+	<key>privacyText</key>
+	<string>Privacidade</string>
+	<key>tosText</key>
+	<string>Termos</string>
+</dict>
+</plist>

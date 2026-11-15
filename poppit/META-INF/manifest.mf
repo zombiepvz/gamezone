@@ -1,0 +1,1006 @@
+Manifest-Version: 1.0
+
+Name: cache.manifest
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ut/rfOZXUIt+hqgiAhWUyw==
+SHA1-Digest: bCwoLWNklF6dEvHZXl0zxEcYHcU=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xGEydii54uzIC5aXJsUd6g==
+SHA1-Digest: Ozm+h/eMEiyfqjtAmcPy0ScLfIM=
+
+Name: jquery-1.4.2.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: EAku7lY97C3Kgrd9LPWhrg==
+SHA1-Digest: Zcv/Tp2V1HpvMdlqtOo2HB9Tins=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l6gQWzQ/aps/U5n/G7lWbQ==
+SHA1-Digest: cKUS5uUQ7Snmm2v0H/OCym45TbM=
+
+Name: img/favicon.ico
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F4X80xBQ+aCB/PEXczi9ow==
+SHA1-Digest: EakscqOjNyfcBdGAqLmn3DUbkl8=
+
+Name: img/PoppitLogo_128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: B/5YYKGZTXEpQnb+G8vllg==
+SHA1-Digest: VFIJQnT8aHKxHCn8ZVt39dExOgY=
+
+Name: img/PoppitLogo_30.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ERN2EDwyt1q4bnn0e6Zt2Q==
+SHA1-Digest: ztgwGBvW7RGf4oltTvFE4yRVyP0=
+
+Name: img/PoppitLogo_60.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KqTnwZoiacq9CWd6n6xBwA==
+SHA1-Digest: mCEP3NeI+Gmi4GWzI7m8wzmgvnA=
+
+Name: lib/game/eaSplashLoader.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XhIXAooM4xjtFaBhiwRJDw==
+SHA1-Digest: PpmjAajz4IjT5xO4Z355kcWB1Lo=
+
+Name: lib/game/localizedStrings.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7tqXF6PDuhZJz7wB06o/ag==
+SHA1-Digest: ewTlbIMwwVzbUKLuenNkaDNYAM4=
+
+Name: lib/game/main.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jHzrjwaNQ7qP01bheQqthg==
+SHA1-Digest: suXhAjpzkzzt0pz61D4If5Mte18=
+
+Name: lib/game/player.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MBFdSLp+kH42zu1hHBtmPQ==
+SHA1-Digest: wFK2ELqenrZvyhlA44wpd9Mx4wk=
+
+Name: lib/game/touchHandler.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pvdztgKcCHcbJCtF3bV9rQ==
+SHA1-Digest: maiYXiKhH+uVNqeTSZIdvcY3e+Y=
+
+Name: lib/game/balloonGrid/balloonGrid.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3h/hXIQRSqjWAJFxGEefNA==
+SHA1-Digest: BpmRCP7WR62pVTaVTA8rTe/SgYY=
+
+Name: lib/game/balloonGrid/balloonGridBounceHelper.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3/YVST7oE4mcN9aQRk4ahg==
+SHA1-Digest: n8bu4y23QtmwadfUEPdHO5leeZc=
+
+Name: lib/game/balloonGrid/balloonGridCell.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FWNP6O0jYBwe9tjtnrYvdA==
+SHA1-Digest: D4hdRAK//J8Q7hzeSL3sUmRPKBA=
+
+Name: lib/game/balloonGrid/balloonGridDifficultyDefs.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pL0swSaSg6+VMSzRbLd/dA==
+SHA1-Digest: gGQTLj8lKgeM1mbw9/Aui30G+Ik=
+
+Name: lib/game/balloonGrid/balloonGridState.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0ew+bWhCE2mEpfKed09jeQ==
+SHA1-Digest: DR9ww+gRxcMO/URQLLf86nlvP1c=
+
+Name: lib/game/entities/balloon.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wokT6TBjgxl3/r9lCzdpEQ==
+SHA1-Digest: kajC02/OFkOVqsmsu3HAal2k7Z0=
+
+Name: lib/game/entities/balloonItem.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TrmPJpvXSgakwOpMBj0erg==
+SHA1-Digest: WDE6SovhKOSa/TjmggddAmENX1o=
+
+Name: lib/game/entities/extendedEntity.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /w+qvCzrj1L0qM/ANCVR0w==
+SHA1-Digest: S7yiAwWUQZry2wqhEfwPVa7T/Ko=
+
+Name: lib/game/entities/floatingText.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Lz112vxkkDIFSuXtXEY9kQ==
+SHA1-Digest: 8beaLS3pPiqJPfXLoq8+tIlDyRQ=
+
+Name: lib/game/entities/powerupitem.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9uEJwfR6WKSGuJzpOIglDQ==
+SHA1-Digest: qqsZ9ssowUX/+/96389VH3QLK1o=
+
+Name: lib/game/entities/prize.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KS8O3d6yKvz4EE13kz0JAQ==
+SHA1-Digest: m89uA0S9yFRFVvB37YvrWni7/D4=
+
+Name: lib/game/entities/prizeitem.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: foTn28+e7xgi1r05PP1c6w==
+SHA1-Digest: 5820xqF0Xn/1TyT3XiZWUdusaeA=
+
+Name: lib/game/entities/spike.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zG9+/gShc8n1QkNuKVIbbg==
+SHA1-Digest: BC4JkWsllqtYSB5sqNWn/imAfDs=
+
+Name: lib/game/entities/starSplosion.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cvJfARSvYCgx2t01mH96uQ==
+SHA1-Digest: JODGg1lGWDVKMycONLGqLIJnY7I=
+
+Name: lib/game/entities/target.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UyO0F5ofhkjZyRr7sVcVLg==
+SHA1-Digest: DhYbnHH9vexxljL7EusYc2nAI1A=
+
+Name: lib/game/fonts/bmFont.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: whURzcIpJ19jFeXv7Y4H3w==
+SHA1-Digest: urt5l+jFsbQARBxlv/2PNYccdWw=
+
+Name: lib/game/fonts/bmFontImage.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pc1LsCT7jhrad1V+2W0PyQ==
+SHA1-Digest: AwaZYZspSFBS4thX16p5WqZ3aHo=
+
+Name: lib/game/fonts/bmFontLabel.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yH6B2q5WLLM8aFNOT9PhjQ==
+SHA1-Digest: 3CXN2sHDOYzoEsEZra+3dizUjfw=
+
+Name: lib/game/gui/AboutScreen.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5+621MsgAXw7I3sWdcQErQ==
+SHA1-Digest: zTBuvQMQC8L2z3awZlqinTVZjFc=
+
+Name: lib/game/gui/BasicsHelp.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jeDL3UWNxsehrq2IEpmCUQ==
+SHA1-Digest: 3e3HkfviF+VOoeMSHOGBMzFLYek=
+
+Name: lib/game/gui/curtain.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7H0/+4v3tvk5pJyQJ5LusA==
+SHA1-Digest: +OAnZieYftrc4yMslJIbQDc9IpU=
+
+Name: lib/game/gui/endgame.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kNV7K25uCo8KERYZ0q+Tjg==
+SHA1-Digest: DWVM2NDPipXCA9MDiapG0C3m0y4=
+
+Name: lib/game/gui/GameplayHelp.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WOY8eFoI04no/6WXbFlVbQ==
+SHA1-Digest: akAaF6XoSSUi/FXHljSHNdzFyCU=
+
+Name: lib/game/gui/HowToPlayMenu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: loGASjkv4RKOnYh7puQoLQ==
+SHA1-Digest: Yp/rk0J4XBqgmS5Pf2Le/fLJmEM=
+
+Name: lib/game/gui/ingame.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Pxc1YM2Bshv0B+nw+HnqLg==
+SHA1-Digest: H/HB22kUxEWwISsU2x3D5Nb7Wtk=
+
+Name: lib/game/gui/MainMenu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jLcQ/4UPJPjVgEY+Z7aKwQ==
+SHA1-Digest: DnzbOWwu86DqxA/rMk6NDfCRrBI=
+
+Name: lib/game/gui/menu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: lib/game/gui/openingCurtain.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 76ajm0ZXnNtv7tXoNqTjlA==
+SHA1-Digest: F6rQW8oQMmi3wGiXPNZPfUhGmHY=
+
+Name: lib/game/gui/OptionsMenu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +rmd1LcRaGvEdZXWnPFXHg==
+SHA1-Digest: 2B+7ZvrH6L6i/tJNVH0Qxl7umWw=
+
+Name: lib/game/gui/pause.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: lib/game/gui/powerupButton.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6eZ92Xof8d+oTlvEeN/N0A==
+SHA1-Digest: N6JGrfxJAW5b681+11qhvr9kfuU=
+
+Name: lib/game/gui/powerups.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1B2M2Y8AsgTpgAmY7PhCfg==
+SHA1-Digest: 2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+
+Name: lib/game/gui/SkillLevelsHelp.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XyoiBOTz1SY3Gs2+BswzTQ==
+SHA1-Digest: TbDcaHBD4Mx5Mmk4fs15iidb7Ek=
+
+Name: lib/game/gui/spikeSpeechBubble.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WJUGAkWo2gflG0lH5mRjQA==
+SHA1-Digest: V7+ulivl8CayrldzEeZcCVWr9ZI=
+
+Name: lib/game/gui/TipsHelp.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yc/WxHCvbsMdjI5LWTe54g==
+SHA1-Digest: VgpNnsltlQnC2/D9IoJ5eQNQ1JQ=
+
+Name: lib/game/guiBase/button.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8pLTwtMbH+LKk8YbqJTEDQ==
+SHA1-Digest: nPBAOVd4I0PSVizTTQU9XPONXUA=
+
+Name: lib/game/guiBase/buttonFactory.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KzMH3PoxpvK6AmIfwcGcNg==
+SHA1-Digest: XKNr+7hU7jWUht3LWIjS2N/Eevc=
+
+Name: lib/game/guiBase/guiBase.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U62Iz7zCkC2Xjo04tAXBmg==
+SHA1-Digest: SUeEXlvkMDBlL8hEiyOOSNEgI1c=
+
+Name: lib/game/guiBase/guiPopup.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JDkGGcU58HsDJM3cJ+W6/A==
+SHA1-Digest: ygZGg/iwpI4jzUMa6zhO5ZaU620=
+
+Name: lib/game/utils/drawUtils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kwnVSBNllMn6lb9zR89qwA==
+SHA1-Digest: q/kYvv6sr2ZA+4XhgRfhiPXs7F8=
+
+Name: lib/game/utils/utils.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: snATxuBWRrlQLFjMX6aRbA==
+SHA1-Digest: G6oCQbZS91tZCPlD3PB/n2Ryi9w=
+
+Name: lib/game/utils/vec2.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pKgJmoaVAWVMTnF5SjYb3Q==
+SHA1-Digest: NN50GaQSAnF1Z8b8rnKEr3tUzjE=
+
+Name: lib/impact/animation.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NOrQpcs+7zEISIsxDfOyKQ==
+SHA1-Digest: TMANGNL1r+BSRursONv6W8cCJ3Y=
+
+Name: lib/impact/background-map.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 25ZcYpb/iyqGjUek3mgg1g==
+SHA1-Digest: iExDiuRpjkFU72cBWc2+YNOsgVI=
+
+Name: lib/impact/collision-map.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2IcdK2tVA1Nf8z0WYEDN6w==
+SHA1-Digest: GW+CFUeXewMuXDog/rgbPUYwmcg=
+
+Name: lib/impact/entity.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +H8rO55AVXQfYQhjGMqQuQ==
+SHA1-Digest: bdt9Rin4cE6TtRxttpRv88mq+Eg=
+
+Name: lib/impact/font.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 36fEoKaighDpzAs9y5F9XA==
+SHA1-Digest: YkoE58v4T0bI9j5gG8/CZKfYXF8=
+
+Name: lib/impact/game.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ly5b3WN9GcepzTMNiAIWDA==
+SHA1-Digest: XWaQvZ2MILMT44hDg/KphCboOPY=
+
+Name: lib/impact/image.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lKczQjBCvb5FGBvBXpWO4g==
+SHA1-Digest: lHiPS6G3S+Hw5EmKSzV3h4tNDqU=
+
+Name: lib/impact/impact.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KAnUDhfy1mMLArWEmW8+Nw==
+SHA1-Digest: id+19E0d23ph0iF+8oe8CH15U4o=
+
+Name: lib/impact/input.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KFCAu4KRPmsR4BTgcWLZ6A==
+SHA1-Digest: 86BgEe642bGavn45K2z3/XdsfuU=
+
+Name: lib/impact/loader.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bqcscUqZKHRY7iwWUnOIRg==
+SHA1-Digest: GiOYZTYgiLvWjE9DfON2bDkitVE=
+
+Name: lib/impact/map.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oV6niYOLXJjUkZ3YGgU7GQ==
+SHA1-Digest: Wde2Y9BXe+mWYxhMv5RRueI2UBY=
+
+Name: lib/impact/sound.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7Y+sSj7rnqRpWD8leRYvmg==
+SHA1-Digest: ikF9W/lBCUxUm4fBJS5TUjl/wiM=
+
+Name: lib/impact/system.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vRrS7Ykw8TD1gWl/DgOW/g==
+SHA1-Digest: ddTLNoruEaQHEA6+CrpF1M18tbM=
+
+Name: lib/impact/timer.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FfXkLar0bVIX4iPRUZBGgw==
+SHA1-Digest: /H+YUEuPXUmhVc3NPsT5TiGAkIQ=
+
+Name: lib/impact/debug/debug.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5tSd9kWpndE4D9B8djeh+g==
+SHA1-Digest: IPcfuIQHrJSh19U+ZckN7U+TiDo=
+
+Name: lib/impact/debug/debug.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iBGITSVaEVJuijw1FVyyeQ==
+SHA1-Digest: jULIQNAu/lOFAw1DlcPTG3qDDXs=
+
+Name: lib/impact/debug/entities-panel.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jhlE3+ZnxIBx5J9+H2ukHQ==
+SHA1-Digest: GBJXPTbZVUuuFx8xJU1W5dS/aS8=
+
+Name: lib/impact/debug/graph-panel.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1viYPj4yVK/YLwFIb31ZHw==
+SHA1-Digest: 4MCTn1oe1rjLfSnGiFlBvBATkMo=
+
+Name: lib/impact/debug/maps-panel.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 71G3icih/7kCCASqNexPoA==
+SHA1-Digest: pTP0k5nkAHLa2O8IE0AC9aGmWDQ=
+
+Name: lib/impact/debug/menu.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fbHs3abre7ZeN6GlEMzYoA==
+SHA1-Digest: 1q3ZnuxM9Xmvqo1NIObwOYJyIes=
+
+Name: lib/plugins/Divver.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SbgK2jKStS1M9k5ETU3NSg==
+SHA1-Digest: L6hTGXavSkS3956VLPcFwsagGg4=
+
+Name: lib/plugins/fastClearPlugin.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dV+OePGYewojrY4Ny9G4Ig==
+SHA1-Digest: 2iMQHpJkh1pCsEjc3SlOBnI5CVE=
+
+Name: media/fonts/AntiqueOlive38.fnt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MZrmNWi9/pWBvfhXTHtRKg==
+SHA1-Digest: jY6h7c/Q0DK4ZtqJNLL6jO/QUmc=
+
+Name: media/fonts/AntiqueOlive38.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D0VX1RSY6GoOY2+vV7+jMQ==
+SHA1-Digest: y1Lu7FnuXq0I4MfJn9Ppv/NUBAk=
+
+Name: media/fonts/AntiqueOlive38Black.fnt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 00sSoT7lM+ug2rLp++8ocw==
+SHA1-Digest: IIg9uLkLA2mAUOav9AIuIojKvrU=
+
+Name: media/fonts/AntiqueOlive38Black.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3DGcxLotQlrk6Kl6d0QMuw==
+SHA1-Digest: IfxZDF+p2mLsgO5sBH7mR3vuiec=
+
+Name: media/fonts/AntiqueOlive38Num.fnt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ygqNPQqGGYgUkKkXuBiXBw==
+SHA1-Digest: pAIehNgUxkS2al2U5hxi/6oJSBU=
+
+Name: media/fonts/AntiqueOlive38Num.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bsHO0gJwnjGIIYcJC2Z/dA==
+SHA1-Digest: B4ryYWQf2Wei8hY9sa3KZXqnb9k=
+
+Name: media/fonts/FullAntiqueOlive38.bmfc
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QZvSguHwgLvsn+6jPS/8Hg==
+SHA1-Digest: 43M2HB2Wty8eQI+FSEOwcoYM+gE=
+
+Name: media/fonts/FullAntiqueOlive38.fnt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9fG4FfqgABc8saDDxW98Jw==
+SHA1-Digest: k12EaF2FrTeCY+XtecJgzYhN74E=
+
+Name: media/fonts/FullAntiqueOlive38_0.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r4UjdRPazy5DKtc5FdTE/Q==
+SHA1-Digest: Mb67WDa2S1HkgoHQ9zTd14bYaEg=
+
+Name: media/fonts/FullAntiqueOlive38Black.bmfc
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: LSblLz/+3MqbwAoyQFn5Ig==
+SHA1-Digest: zoOu0lOYhwp1Vr99VfQYQgjJjNw=
+
+Name: media/fonts/FullAntiqueOlive38Black.fnt
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TojmQL0wnczH8SG/iRpYwQ==
+SHA1-Digest: Mph6y2KOYS6IXJmRxZ2a06Mc69I=
+
+Name: media/fonts/FullAntiqueOlive38Black_0.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OHhlHjfjXnP2Dxw4A4emQA==
+SHA1-Digest: J8iD78yIBR0feGmvRI7YtveHdWU=
+
+Name: media/fonts/ScoreLarge.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F5y+cBzo2Z9aju13eBBTRg==
+SHA1-Digest: 805P/RM6FAELTsKhpI1ApZ0BOFo=
+
+Name: media/fonts/ScoreSmall.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sv3sL5fv7Ws/i0R3y+5/Ww==
+SHA1-Digest: taKSI0jyzw4FAow+6JiBlaPV6e4=
+
+Name: media/images/DefaultFF.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vTkHHOKupai23NMkq5zvsw==
+SHA1-Digest: onmgVz89F+BXy+mPf9FF9+lQ0yo=
+
+Name: media/images/balloons/balloonitems.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i2Z7QzCNzUmi9vXiJgaYgA==
+SHA1-Digest: XxFK7oQXidTxQtv08CIU6rz+joQ=
+
+Name: media/images/balloons/balloons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aJbIEqwa/X2AaOea/RGQ0w==
+SHA1-Digest: NT96HWJBbNEoTBceqock4u/5xO4=
+
+Name: media/images/balloons/powerups.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: nwBeNOEzLVwiFn5ANxPdaQ==
+SHA1-Digest: m/nfTIMj5KkUOp9mb/Itivkha0g=
+
+Name: media/images/balloons/superpop.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fZBh8G8QxTJkkLWDnLLNOQ==
+SHA1-Digest: oX0Jnatak0AX6d9+XKnnP+uPghY=
+
+Name: media/images/dialog/PoppitDialogBalloon.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: i5OW06e6p1t++dvcAa6E/g==
+SHA1-Digest: JlJ/V81N3vjmAI21/1O3a361ADQ=
+
+Name: media/images/dialog/PoppitDialogBalloonOkButton.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: jh2R+UuZfojFy5SI3aBN/A==
+SHA1-Digest: 2/ENd6t49cOyRtV8Q3McofbDBZs=
+
+Name: media/images/dialog/PoppitDialogCheckbox.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: WuoGgDUDH+J5tIxvosfXVA==
+SHA1-Digest: Ioj729zcJ59Z5kwUCEhN0fgNOhg=
+
+Name: media/images/level/bg_sky.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0b43u4hVRUlEQ0kYDfwDxw==
+SHA1-Digest: X+7sOGVN7aO5bqUvj2hs/CnOOPY=
+
+Name: media/images/level/buttons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: K/smLLfHFPRgG7dDq4IDSA==
+SHA1-Digest: rK8ipeySMENVFwjnDf85yxAlBxo=
+
+Name: media/images/level/buttons2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9gJ5hDvxqOQBJAaGY7Az1g==
+SHA1-Digest: vu5+C8vaUgoea9U6qrciadKoaGk=
+
+Name: media/images/level/fg_platforms.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NCwxrdyzJnPKFz0iq5Ax8Q==
+SHA1-Digest: 40aOn0h9ZYrZ73dl3wWSVn9BqeU=
+
+Name: media/images/level/PoppitCloud1.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DmAUjQn9B1xnqLodWQSWSg==
+SHA1-Digest: HmRsnaXOu0Kc3ytP9Clp9Pls4y8=
+
+Name: media/images/level/PoppitCloud2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 7wGgBAbIAUvrQNVU10uB/g==
+SHA1-Digest: Pu3KGZtFnA+dqh5b5loABRiY/og=
+
+Name: media/images/level/PoppitCloud3.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FbiQWa8kraIN3gmFoulnnQ==
+SHA1-Digest: Z7wKIi7oecEUsk1OXrVChv6ZvkA=
+
+Name: media/images/menu/back_button.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 60ChlDRPAIuL/0TQkvEXfg==
+SHA1-Digest: t0bbqM+RiRxEazlER49RBzB3OFM=
+
+Name: media/images/menu/back_button2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: dKnBsA1rLIDWz+V2JwhQ6Q==
+SHA1-Digest: qsXfe+hftkQFBy2g3pn/b0O3p04=
+
+Name: media/images/menu/GameSummary_BG.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: V6TppsxIDuNk4Vf+NBvdyA==
+SHA1-Digest: MSqDTM6PvDVPxnqBo57Pp71TMkE=
+
+Name: media/images/menu/GameSummary_BG2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SUM8NDM5NBQ+bpBSR0hc4Q==
+SHA1-Digest: oFzouGUlHlZghTiRCy3DshEfGxM=
+
+Name: media/images/menu/GS_Header_HighScore.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: befUW3QoLfNV2SorPBCr0Q==
+SHA1-Digest: 2VydyHCP75qo/I5Ut+a6+fd60cY=
+
+Name: media/images/menu/GS_Header_Lose.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: aGCkRbEjzbbE5lNoaTwFbA==
+SHA1-Digest: ZlE7LzebFa4aRR27buJRVUutheY=
+
+Name: media/images/menu/GS_Header_Win.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TI03Mrg7I6WvuJ/6OD7aUw==
+SHA1-Digest: vCFeJV/rNEPgpfI8bKEdkOp2Sqw=
+
+Name: media/images/menu/jsglogo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: INwkqfPQ7Ui+LICunGiNgQ==
+SHA1-Digest: tkWEDJDDaCnOX4EfRoOw0GbtUzE=
+
+Name: media/images/menu/menu_buttons.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OV9IlFGMHr0T3GK11RpR/Q==
+SHA1-Digest: SZI0p8PlRVEpUp6L7k13TrRpcT4=
+
+Name: media/images/menu/menu_header.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6v+3//9PH2BvVrH5igP4jA==
+SHA1-Digest: kSu2LFgWB7pixXp+KDIsj+brpAM=
+
+Name: media/images/menu/ok_button.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0IDjo1xj7qizjmsPhJMT/Q==
+SHA1-Digest: 2cOjw8phyxTIQr54zuapP7sxnYQ=
+
+Name: media/images/menu/ok_button2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JkFvZi4vlaDwzt8j3fV3/g==
+SHA1-Digest: A4SgTgOl/A5SQMbW26MZdOGp6Ik=
+
+Name: media/images/menu/pogo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GVpx5Jv/Vc3HVFg1izIFmA==
+SHA1-Digest: Vi6n8RTIWCWEt0YNVoZ77EoN2jw=
+
+Name: media/images/menu/poppit.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2j+hGeBxhLPudOwALsVF1A==
+SHA1-Digest: Cg7iFaCGVpuC4gOPYyRjcDUC1AQ=
+
+Name: media/images/menu/PoppitCurtainMain.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3yH6RtERAXcD86VWjFZ/gQ==
+SHA1-Digest: HaP/fiXSYQG7aP8hA85UpczEh14=
+
+Name: media/images/menu/PoppitCurtainSide1.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Jbgzav5XVJnZ4ngGQA2Bag==
+SHA1-Digest: /oRjMotS6ZXehRtWifly2Lhsm1E=
+
+Name: media/images/menu/PoppitCurtainSide2.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lZ5JkQ9aLZ3B0s9Ot7UVHg==
+SHA1-Digest: nNFpLKYTMlUyTHDDDFP5pJsmn50=
+
+Name: media/images/menu/PoppitCurtainTop.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wWleclwN2hhBj9oJO7o8LQ==
+SHA1-Digest: 5ZI8CPB+5JbrVg5UFsG1TVmaoQ4=
+
+Name: media/images/menu/PoppitMainMenuLogo.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r9APTR5/CmB6we5UpXzXLQ==
+SHA1-Digest: HwcGrjOE01GfOjD0S6oqbtdfdWM=
+
+Name: media/images/menu/PoppitMenuBkg.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 6velGT42fstD0v+ZjFPMEw==
+SHA1-Digest: E+wlKy5vNDclhyRjJO/A+IFtVeU=
+
+Name: media/images/menu/PoppitMenuNoSpike.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SB5BtnsPMjWZbiREtPwrAg==
+SHA1-Digest: G1QzMFV8VVYUkia61XW4BF/gMsk=
+
+Name: media/images/menu/spike.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: lfIjOWNfUfBbtzuNfBLKMg==
+SHA1-Digest: S2gKykRlbBL7V0LLP9Fbqv7FFP0=
+
+Name: media/images/prizes/parachute.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iI7WWgH+g/fa1MSl4DUUWQ==
+SHA1-Digest: Pg9tWURxoimpGl9INXhYU+g3i3E=
+
+Name: media/images/prizes/PoppitStarCoinVFX.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oHmNvK4RAGCBFQ4i1FFYUg==
+SHA1-Digest: W+GM2aav7OU9d4WA63qUeElYqnY=
+
+Name: media/images/prizes/prizes.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: j1wjLEGMuySkfsAsX8qWrA==
+SHA1-Digest: dw1u4pfaLPOHBq3wIwRCcjBmsOo=
+
+Name: media/images/prizes/target.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: r1EqyjLMVLaVLJBV+HNVQQ==
+SHA1-Digest: AQ5NtfFfTQ1nhS8iHAOKBqsY/CQ=
+
+Name: media/images/spike/spike_excited122x148.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z8kJ47zqHkyIIJv1PBxn+g==
+SHA1-Digest: XFMH5pKj8hS/nlU9dv7CumyaRBA=
+
+Name: media/images/spike/spike_glance118x144.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: hbgYNNG0YnLmV3smKd4aBA==
+SHA1-Digest: FHa50HhT9EHIzcuxBLoqgISnq5Q=
+
+Name: media/images/spike/spike_jumps134x248.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bkSL3qaxqTnsVBt5RBbV4A==
+SHA1-Digest: zeWI6462SDrpdtdsDx3Lc0/VcUg=
+
+Name: media/images/spike/spike_neutral128x144.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Yi54QHaZtoIgbC60aKH/bA==
+SHA1-Digest: s7XIoFY85DaaeHCOJ7F+GpwATro=
+
+Name: media/images/spike/spike_shrugs120x144.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: zd6rx5GjXea4Vb4HoYqlJA==
+SHA1-Digest: a7y1ZJAre4hKX+UkUkZTpSzFWsg=
+
+Name: media/images/spike/spike_wink112x144.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0VVD3Mp3DlX184d78ctd2A==
+SHA1-Digest: 6OfuAlQIK2AKNPGrcAiwvoi8xhA=
+
+Name: media/sounds/balloon-pop.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ElgerhJ3g1vsjuM9OQzTzg==
+SHA1-Digest: ZbnCmoYvDdA83crQ1yUx1zS1Bbs=
+
+Name: media/sounds/bonus-win.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: yydsKF3B3Vs6IUQ4NUtW+w==
+SHA1-Digest: c27Z9Ysm+J/dz8sUWPuwZDVyk0g=
+
+Name: media/sounds/cha-ching.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MBSOJf8myRtvaMIF0axs1w==
+SHA1-Digest: OWtWhaQTQeBtpa9MwehoCLMsZGQ=
+
+Name: media/sounds/CheckBoxClick.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +HszJ6vC/m2MCZF9GYMeng==
+SHA1-Digest: NzWJfJS6tJhJmnrvpF4YOmjjbMk=
+
+Name: media/sounds/drumroll.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: isyq1Z0y1tIKWZiX6R+yTg==
+SHA1-Digest: Sehx8YvvSZZob9uCXayPx+aF1vo=
+
+Name: media/sounds/error.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SZWJB2L8EUExs+9NCiD6IA==
+SHA1-Digest: UtNnEX9PV9uiABXvb0clYWS5ngw=
+
+Name: media/sounds/MenuClick.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: eQ5ifEM0o1d9GtqEokZHKA==
+SHA1-Digest: NX0SrueS7/wMiXUp9z6JsJHNDWU=
+
+Name: media/sounds/no-moves.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RxSIFtlsMaq4V1xkP2e5Tw==
+SHA1-Digest: zx8j9oQQ86Ea6/tGyCoLIPtRbuE=
+
+Name: media/sounds/PoppitSFXCatchPrize.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BTBHXi7/9b2hhsSw9srDpg==
+SHA1-Digest: fjl3d1sXoJMyICruepDIcHddmuQ=
+
+Name: media/sounds/PoppitSFXPrizeChime.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: pt7kBRGeMvQHQrtLbHf5Jg==
+SHA1-Digest: HbClc6Mn8a8N54H3ivyRWqWz4bw=
+
+Name: media/sounds/powerup.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DDUuwVzIC/lmf9Nq0K/BHg==
+SHA1-Digest: FNg6eMCN7plKwwa5hZUr4JzFvzc=
+
+Name: media/sounds/PrizeBaseball.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: PzgFovoEI36YiALLUj9mxQ==
+SHA1-Digest: ASYWWir0pwTWnPaFA767bC7r8MU=
+
+Name: media/sounds/PrizeBee.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: q8POiSN0XPuCtZ/JO42heg==
+SHA1-Digest: RIZXiDcp7oYE5sgqesxTVjoSd58=
+
+Name: media/sounds/PrizeBoat.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iBwOfi2iMxDJcu2UUWBcsw==
+SHA1-Digest: tYzZ+cY3NDSRzjhztWtLJw/Q24g=
+
+Name: media/sounds/PrizeCar.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Z0wRPIRBHAYwe7SdhZ66ew==
+SHA1-Digest: dAsyrcncSVUcrXxd1NWwyDtihXw=
+
+Name: media/sounds/PrizeConch.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 2gScavS+9/T8WQE8p9Bv/A==
+SHA1-Digest: yLogGJPHdpLE/7IflK3q69NoEsw=
+
+Name: media/sounds/PrizeDice.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 5Fg7WXLoBaw1tNHWl9Y15g==
+SHA1-Digest: SZIo0yDIcqUSBrTx1g+j0vzYv0c=
+
+Name: media/sounds/PrizeFish.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ITG6T40B6I5N5W828aGxsw==
+SHA1-Digest: /6LzaiX8pmMUJZlnmtrQU+GP094=
+
+Name: media/sounds/PrizeFrog.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vnPr8f3lA533CvIh5tz/qQ==
+SHA1-Digest: mlkqxoFfJ9Q5TeIi/cBmeowxsAA=
+
+Name: media/sounds/PrizeGhost.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZHpmh13rmVFZw+lLRjKVxg==
+SHA1-Digest: 1zhk8oi/QOJ8VO/EUWaXZIsnf0A=
+
+Name: media/sounds/PrizeJester.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gRfqXV8dGlvzM3H4OkpqZQ==
+SHA1-Digest: EqAG+ERUWcg1PqliVNi0vUEoVGg=
+
+Name: media/sounds/PrizeMonkey.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: m1O6oo4c3oPF+UVlNymYjw==
+SHA1-Digest: WRKqZPuzN0v6R67rLRGqZLR3uDA=
+
+Name: media/sounds/PrizePanda.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: R16Ib7W/fJiV1wIyrrrsOw==
+SHA1-Digest: YdYQunGda3R0pj0oXQ2Xjccvl+I=
+
+Name: media/sounds/PrizePizza.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: XiK20mw4V/GOgClpFOHmig==
+SHA1-Digest: Y+s1WobmZaDtpr1hVMWYFKJtPMI=
+
+Name: media/sounds/PrizePlane.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gZHfiyBOAb8UgIo5eieI+g==
+SHA1-Digest: uNsPvLyi1fHp0CNhmxp0Vruhxv4=
+
+Name: media/sounds/PrizePretzel.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: vBfIaDzYcf2Kx3NuLKrmkQ==
+SHA1-Digest: n1iJfgON7U4+44PApARAB8+GF5E=
+
+Name: media/sounds/PrizePuppy.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ynaz5pSMwj7USBgXttDJJA==
+SHA1-Digest: ZT/tRb2zUSK18juJy5t81QJ7a38=
+
+Name: media/sounds/PrizeSaxophone.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: sHeL58zC/s6l5Hs/rCuelQ==
+SHA1-Digest: JwMIYXIXEVgmXTW8ir3W1yH4sCY=
+
+Name: media/sounds/PrizeTaco.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: BgAGR9vpGp4uaJYgK7qTtQ==
+SHA1-Digest: Z3EnBkJQkSGZPYehVEIL3aYve1E=
+
+Name: media/sounds/PrizeTank.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c+wlbBUfoAe8CWmCsTreYg==
+SHA1-Digest: a7smV/9lYYtx6DfG4lvhsNKcpmc=
+
+Name: media/sounds/rankup.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: X0yjkD9ahgL8Lm+AXWUViQ==
+SHA1-Digest: cibJthd+xLbbhdWsRgSawyJTdCY=
+
+Name: media/sounds/superpop.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: TpBzzfvPH23K3yMjhzD+Yw==
+SHA1-Digest: nPQymwFTcMp1mPRbgR4fyjJ9sts=
+
+Name: media/sounds/weight.mp3
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: U1WdxwO7EDsq3Oeo1MdhLg==
+SHA1-Digest: qItzmIUZx30Pp2fTZR8hq8Esd9k=
+
+Name: media/strings/batch-plist-to-json.py
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: fW2kXeb6uTfYzVYvwaI1PQ==
+SHA1-Digest: s1bsFciEXulIiFt+a3yBMcqrFas=
+
+Name: media/strings/Poppit_en.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8a97rBJQHbJVsDl3w5VQqg==
+SHA1-Digest: fdMpeqkuAh3TRDg/LSy9PVEixuc=
+
+Name: media/strings/Poppit_en.plist
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: VFl9JMj5mFXOWQhX228sdA==
+SHA1-Digest: atR85BIAnL+cTa+lAYAaIWuozs8=
+
+Name: media/strings/Poppit_es.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AIVFDHFQwwUhrVSiQEYXEw==
+SHA1-Digest: T+Vkpyqf5YauV8i0FRk8lE/+zEs=
+
+Name: media/strings/Poppit_es.plist
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: otDm8zJOJiSDL/d9/Z+njA==
+SHA1-Digest: jBNgqUhSdOk20ZocdRgbdsD7Las=
+
+Name: media/strings/Poppit_pl.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: bawgo2mqgUMtJov9ID8OpA==
+SHA1-Digest: 2vqmQE4jRMXajJTA1ER3QDLIO7A=
+
+Name: media/strings/Poppit_pl.plist
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ereTy7r771xxPmj0jgh9UA==
+SHA1-Digest: Wxy2KCBajj3I6oYkQROLvpihQmU=
+
+Name: media/strings/Poppit_pt.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: F8frWOsEYcwf5pye/SS9ZA==
+SHA1-Digest: f34mP9yp0Q/rXb3NPOpn4phxJeo=
+
+Name: media/strings/Poppit_pt.plist
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tG78tKbBbpuNgR6lHn9fZw==
+SHA1-Digest: IsQ/VeWI7lhNn3Fk78zXZfhHSKY=
+
+Name: media/strings/PoppitAbout.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: e4HyM08ocJRUnB52b9kKpA==
+SHA1-Digest: OHy5OH81qKHL8QuBTvZQMBSiOvo=
+
+Name: media/strings/PoppitAboutES.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: RyFEZQQEBzom/HvPyDMzeQ==
+SHA1-Digest: 9yfkx2OQhRdbZ/Q/U+8xzQ4hQWQ=
+
+Name: media/strings/PoppitAboutPL.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: D9A5Z7zMJ0iW1WaHsuKLQg==
+SHA1-Digest: EOu5E6aY8jGA9r4w916OkvYTM8A=
+
+Name: media/strings/PoppitAboutPT.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0QbSqOjlnYWK3IkaWsvFQQ==
+SHA1-Digest: PWbamFVTSEnZNtJhkteqAQ3X+/E=
+
+Name: media/strings/PoppitBasicsHelp.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 0KVPsXSpuHfgKxWQ2Iq6Ow==
+SHA1-Digest: BH0tNyh8h/WfSgOTPFXkURcI3vU=
+
+Name: media/strings/PoppitBasicsHelpES.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: SS2JfFCvvKIhqn6vr35RbA==
+SHA1-Digest: +P8xAflEjTJ3nMli7VREGCBelLY=
+
+Name: media/strings/PoppitBasicsHelpPL.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: KmHwDK9GE2vnSdFo3zZBPQ==
+SHA1-Digest: Z4i5gmcm9HJgUc0CzxUb/Q2hoUw=
+
+Name: media/strings/PoppitBasicsHelpPT.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JtHdDN8IbQPycxpChSlBfQ==
+SHA1-Digest: dV6xgt/OYyrl/zl+NqMH8KlBQn4=
+
+Name: media/strings/PoppitGameplayHelp.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ByP1jJQP5bsSLIA2DnmUpA==
+SHA1-Digest: vVvaYLhxnB7bhz0gd9W+dLa+K54=
+
+Name: media/strings/PoppitGameplayHelpES.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oFjW0eTDbK8flj0xFiE3XQ==
+SHA1-Digest: ERVnbh6Vk/yp7fnUAh/2nXgBMUI=
+
+Name: media/strings/PoppitGameplayHelpPL.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: AzVwVsNoiIUw2kJp6JsuFg==
+SHA1-Digest: 8byHwByGiWljml/G1W6TVVvyU6Y=
+
+Name: media/strings/PoppitGameplayHelpPT.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: v9Cf5f27a4SwUiripDWI+Q==
+SHA1-Digest: cLb+M+41ICFY2nSeTXFshrrxyMc=
+
+Name: media/strings/PoppitSkillLevelsHelp.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ftPLlWK+hMmYCtwbyJHczA==
+SHA1-Digest: aXh7pC9Oni7tNLuH1GHSbIG4h7k=
+
+Name: media/strings/PoppitSkillLevelsHelpES.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T+XxSHzS9fTFCk+z4CSAHQ==
+SHA1-Digest: h2Z06VhZygB3LFwN5//y4xtOLm8=
+
+Name: media/strings/PoppitSkillLevelsHelpPL.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HFTiPHR7t7YNAYLEe9hxrQ==
+SHA1-Digest: 1rDkDoZxccgs5WniI/bFXg/APIg=
+
+Name: media/strings/PoppitSkillLevelsHelpPT.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: iYRci8/X0gKjEjznDFpQeA==
+SHA1-Digest: Yh/WWknlv0cyrw6sapqavTCXrBc=
+
+Name: media/strings/PoppitTipsHelp.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: xs1/2qN7I86nWTVxtmvrLw==
+SHA1-Digest: oPYCCQgLxz7gheP9Jwq4aOnGmlA=
+
+Name: media/strings/PoppitTipsHelpES.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: /+mMbXbQLfYO2kyXOne4yw==
+SHA1-Digest: iEcO8HBWhdpSwzjD+np9U8UDre4=
+
+Name: media/strings/PoppitTipsHelpPL.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: u1Tpwbd+dUtJkMUjK/IfLA==
+SHA1-Digest: TnyELm2gAw3N2/9NVYNUOrkQWpI=
+
+Name: media/strings/PoppitTipsHelpPT.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rLsXhFYholirvV6nM8hgKw==
+SHA1-Digest: 95chxnCKnI6X3io0DvBbrfZOknI=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 34C9ZBYSL+1tbh0gO/hHPA==
+SHA1-Digest: keFItiC8JLXbXgdlzpC2Zg+oYGk=

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SkillChangeNewGameAlertNoText</key>
+	<string>No</string>
+	<key>SkillChangeNewGameAlertText</key>
+	<string>Si cambias el nivel de habilidad, se perderá tu progreso actual. ¿Comenzar una partida nueva?</string>
+	<key>SkillChangeNewGameAlertTitle</key>
+	<string>Cambiar nivel de habilidad</string>
+	<key>SkillChangeNewGameAlertYesText</key>
+	<string>Sí</string>
+	<key>StartNewGameAlertNoText</key>
+	<string>No</string>
+	<key>StartNewGameAlertText</key>
+	<string>Si comienzas una partida nueva, se perderá tu progreso actual. ¿Comenzar una partida nueva?</string>
+	<key>StartNewGameAlertTitle</key>
+	<string>Partida nueva</string>
+	<key>StartNewGameAlertYesText</key>
+	<string>Sí</string>
+	<key>aboutText</key>
+	<string>Sobre</string>
+	<key>anvilPowerupReleased</key>
+	<string>Has conseguido la mejora Yunque. Úsala para que la columna descienda una fila.</string>
+	<key>backText</key>
+	<string>Volver</string>
+	<key>balloonsLeftText</key>
+	<string>o menos globos</string>
+	<key>bestScoreText</key>
+	<string>Mejor puntuación</string>
+	<key>easyText</key>
+	<string>Fácil</string>
+	<key>endOfGameBalloonsRemain</key>
+	<string>¡Has liberado los %i premios disponibles! Explota todos los globos para recibir una bonificación.</string>
+	<key>endOfGameFailed</key>
+	<string>¡Bien jugado! Has liberado %i de los %i premios disponibles. ¡Libéralos todos para ganar!</string>
+	<key>endOfGameWon</key>
+	<string>¡Has liberado los %i premios disponibles!</string>
+	<key>firstGameStart</key>
+	<string>Instrucciones:
+- Toca 2 o más globos adyacentes del mismo color para explotarlos.
+- Libera todos los premios para ganar.</string>
+	<key>firstPrizeReleased</key>
+	<string>Mueve el premio hacia la diana inclinándolo o moviéndolo con el dedo.</string>
+	<key>gameHintTextItems</key>
+	<array>
+		<string>Toca los globos adyacentes del mismo color para explotarlos.</string>
+		<string>¡Libera todos los premios para ganar!</string>
+		<string>Recoge los premios que caigan sobre la diana.</string>
+		<string>Toca el objetivo para moverlo o inclínalos para desplazarlos.</string>
+		<string>La partida acabará cuando no te queden movimientos.</string>
+		<string>La mejora Chincheta te permite explotar un solo globo.</string>
+		<string>La mejora Yunque hace descender la columna una fila.</string>
+		<string>Cambia la dificultad en la pestaña Opciones en el menú del juego.</string>
+		<string>Existe el botón Deshacer. ¡Úsalo cuanto quieras!</string>
+		<string>¡Si quieres grandes puntuaciones, intenta conseguir MEGAEXPLOSIONES!</string>
+	</array>
+	<key>hardText</key>
+	<string>Difícil</string>
+	<key>helpText</key>
+	<dict>
+		<key>helpBasics</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonBasics</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderBasics</string>
+			<key>htmlFilename</key>
+			<string>PoppitBasicsHelpES.html</string>
+			<key>title</key>
+			<string>Aspectos básicos</string>
+		</dict>
+		<key>helpGameplay</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonGameplay</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderGameplay</string>
+			<key>htmlFilename</key>
+			<string>PoppitGameplayHelpES.html</string>
+			<key>title</key>
+			<string>Juego</string>
+		</dict>
+		<key>helpSkillLevels</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonSkillLevel</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderSkillLevels</string>
+			<key>htmlFilename</key>
+			<string>PoppitSkillLevelsHelpES.html</string>
+			<key>title</key>
+			<string>Niveles de habilidad</string>
+		</dict>
+		<key>helpTips</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonTips</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderTips</string>
+			<key>htmlFilename</key>
+			<string>PoppitTipsHelpES.html</string>
+			<key>title</key>
+			<string>Consejos</string>
+		</dict>
+	</dict>
+	<key>hideMessageText</key>
+	<string>No mostrar más</string>
+	<key>howToPlayText</key>
+	<string>Cómo jugar</string>
+	<key>mainMenuText</key>
+	<string>Menú principal</string>
+	<key>mediumText</key>
+	<string>Medio</string>
+	<key>menuText</key>
+	<string>Menú</string>
+	<key>messageDoNotShowAgainText</key>
+	<string>No mostrar más</string>
+	<key>newGameText</key>
+	<string>Partida nueva</string>
+	<key>okText</key>
+	<string>Aceptar</string>
+	<key>optionsText</key>
+	<string>Opciones</string>
+	<key>pinPowerupReleased</key>
+	<string>Has conseguido la mejora Chincheta. Úsala para explotar un globo.</string>
+	<key>popAllBalloonsTextString</key>
+	<string>+%i completados</string>
+	<key>prizeReleasedMissedTarget</key>
+	<string>Mueve el premio hacia la diana inclinándolo o moviéndolo con el dedo.</string>
+	<key>prizesReleasedText</key>
+	<string>Premios liberados</string>
+	<key>quitText</key>
+	<string>Salir</string>
+	<key>rankSignFormatText</key>
+	<string>Rango %i</string>
+	<key>resetMessagesText</key>
+	<string>Restablecer mensajes</string>
+	<key>ressetMessagesAlertText</key>
+	<string>¡Se han restablecido todos los mensajes!</string>
+	<key>ressetMessagesAlertTitle</key>
+	<string>Restablecer</string>
+	<key>resumeGameText</key>
+	<string>Volver a la partida</string>
+	<key>scoreBalloonLabelText</key>
+	<string>puntuación</string>
+	<key>singleBalloonRelease</key>
+	<string>Los globos aislados no se explotarán. Toca 2 o más globos adyacentes del mismo color para que exploten.</string>
+	<key>skillLevelText</key>
+	<string>Nivel de habilidad</string>
+	<key>splashContinueText</key>
+	<string>Toca para comenzar</string>
+	<key>summaryScreenBalloonsPopped</key>
+	<string>¡Has explotado %i globos!</string>
+	<key>summaryScreenGuestRankMessage</key>
+	<string>¡Crea una cuenta gratuita para conseguir rangos!</string>
+	<key>summaryScreenMaxRankProgressMessage</key>
+	<string>¡Has conseguido el rango máximo!!</string>
+	<key>summaryScreenOfflineRankMessage</key>
+	<string>La información de rango no está disponible.</string>
+	<key>summaryScreenPrizesReleased</key>
+	<string>Has liberado %i de los %i premios disponibles.</string>
+	<key>summaryScreenRankProgressMessage</key>
+	<string>Explota %i globos más para alcanzar el rango %i.</string>
+	<key>summaryScreenScoreLabel</key>
+	<string>Puntuación</string>
+	<key>summaryScreenUnusedPowerupsLabel</key>
+	<string>Mejoras adicionales</string>
+	<key>superPopBonusText</key>
+	<string>Bonificación MEGAEXPLOSIÓN</string>
+	<key>superPopScoreTextString</key>
+	<string>MEGAEXPLOSIÓN +%i</string>
+	<key>tickerMessageAnvilReleased</key>
+	<string>¡Has conseguido la mejora Yunque!</string>
+	<key>tickerMessageGameEndPrizesRemain</key>
+	<string>No has terminado el tablero, inténtalo de nuevo.</string>
+	<key>tickerMessageGameWon</key>
+	<string>Enhorabuena, ¡has liberado todos los premios!</string>
+	<key>tickerMessagePinReleased</key>
+	<string>¡Has conseguido la mejora Chincheta!</string>
+	<key>tickerMessagePopAllBalloons</key>
+	<string>¡Has explotado los globos restantes!</string>
+	<key>tickerMessagePrizeReleased</key>
+	<string>¡Has liberado el premio %@!</string>
+	<key>tickerMessageSuperpop</key>
+	<string>¡Has conseguido una MEGAEXPLOSIÓN!</string>
+	<key>tickerMessageTargetBonus</key>
+	<string>¡Bonificación de objetivo!</string>
+	<key>tickerMessageTiltTargetBonus</key>
+	<string>¡Bonificación de inclinación!</string>
+	<key>totalScoreText</key>
+	<string>PUNTUACIÓN TOTAL</string>
+	<key>undoText</key>
+	<string>Deshacer</string>
+	<key>unusedPowerUpsText</key>
+	<string>Mejoras no utilizadas</string>
+	<key>winText</key>
+	<string>¡HAS LIBERADO TODOS LOS PREMIOS!</string>
+	<key>eulaText1</key>
+	<string>Licencia de usuario</string>
+	<key>eulaText2</key>
+	<string></string>
+	<key>privacyText</key>
+	<string>Privacidad</string>
+	<key>tosText</key>
+	<string>T. de servicio</string>
+</dict>
+</plist>

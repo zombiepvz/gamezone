@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
+<plist version='1.0'>
+<dict>
+	<key>firstGameStart</key>
+	<string>Instrukcje:
+- Dotknij co najmniej 2 sąsiadujące balony o tym samym kolorze, by je przekłuć.
+- Uwolnij wszystkie nagrody, aby wygrać.</string>
+	<key>pinPowerupReleased</key>
+	<string>Otrzymujesz dopalacz Pinezka. Użyj go, by przekłuć pojedynczy balon.</string>
+	<key>anvilPowerupReleased</key>
+	<string>Otrzymujesz dopalacz Kowadło. Użyj go, by opuścić kolumnę o jeden rząd.</string>
+	<key>firstPrizeReleased</key>
+	<string>Umieść nagrodę na celu, przechylając lub przesuwając cel palcem.</string>
+	<key>prizeReleasedMissedTarget</key>
+	<string>Umieść nagrodę na celu, przechylając lub przesuwając cel palcem.</string>
+	<key>singleBalloonRelease</key>
+	<string>Pojedyncze balony nie pękają. Dotknij co najmniej 2 sąsiadujące balony o tym samym kolorze, by je przekłuć.</string>
+	<key>messageDoNotShowAgainText</key>
+	<string>Nie pokazuj ponownie</string>
+	<key>tickerMessagePinReleased</key>
+	<string>Masz dopalacz Pinezka!</string>
+	<key>tickerMessageAnvilReleased</key>
+	<string>Masz dopalacz Kowadło!</string>
+	<key>tickerMessagePrizeReleased</key>
+	<string>Uwalniasz nagrodę %@!</string>
+	<key>tickerMessageSuperpop</key>
+	<string>Masz SUPERPUFF!</string>
+	<key>tickerMessagePopAllBalloons</key>
+	<string>Przekłuto wszystkie pozostałe balony!</string>
+	<key>tickerMessageGameEndPrizesRemain</key>
+	<string>Plansza nie została ukończona, ponów próbę.</string>
+	<key>tickerMessageGameWon</key>
+	<string>Gratulacje, zwolniono wszystkie nagrody!</string>
+	<key>tickerMessageTiltTargetBonus</key>
+	<string>Premia za przechylenie!</string>
+	<key>tickerMessageTargetBonus</key>
+	<string>Premia za cel!</string>
+	<key>endOfGameFailed</key>
+	<string>Niezła gra! Uwolniono %i z %i dostępnych nagród. Uwolnij wszystkie nagrody, aby wygrać!</string>
+	<key>endOfGameBalloonsRemain</key>
+	<string>Uwolniono wszystkie nagrody: %i! Przekłuj wszystkie balony, by uzyskać premię.</string>
+	<key>endOfGameWon</key>
+	<string>Uwolniono wszystkie nagrody: %i! </string>
+	<key>summaryScreenRankProgressMessage</key>
+	<string>Przekłuj o %i balonów więcej, by osiągnąć rangę %i.</string>
+	<key>summaryScreenMaxRankProgressMessage</key>
+	<string>Masz maksymalną pozycję w rankingu!</string>
+	<key>summaryScreenOfflineRankMessage</key>
+	<string>Informacje o rankingu nie są dostępne.</string>
+	<key>summaryScreenGuestRankMessage</key>
+	<string>Utwórz bezpłatne konto, by zdobywać rangi!</string>
+	<key>summaryScreenPrizesReleased</key>
+	<string>Uwolniono %i z %i dostępnych nagród.</string>
+	<key>summaryScreenBalloonsPopped</key>
+	<string>Przekłuto tyle balonów: %i.</string>
+	<key>summaryScreenScoreLabel</key>
+	<string>Wynik</string>
+	<key>summaryScreenUnusedPowerupsLabel</key>
+	<string>Dodatkowe dopalacze</string>
+	<key>prizesReleasedText</key>
+	<string>Uwolnione nagrody</string>
+	<key>unusedPowerUpsText</key>
+	<string>Niezużyte dopalacze</string>
+	<key>superPopBonusText</key>
+	<string>SUPERPUFF! Premia</string>
+	<key>totalScoreText</key>
+	<string>ŁĄCZNY WYNIK</string>
+	<key>bestScoreText</key>
+	<string>Twój rekord</string>
+	<key>winText</key>
+	<string>UWOLNIONO WSZYSTKIE NAGRODY!</string>
+	<key>balloonsLeftText</key>
+	<string>lub mniej balonów</string>
+	<key>superPopScoreTextString</key>
+	<string>SUPERPUFF! +%i</string>
+	<key>popAllBalloonsTextString</key>
+	<string>+%i ukończono!</string>
+	<key>StartNewGameAlertTitle</key>
+	<string>Rozpocznij nową grę</string>
+	<key>StartNewGameAlertText</key>
+	<string>Nowa gra wymaże dotychczasowe wyniki. Czy chcesz zacząć nową grę?</string>
+	<key>StartNewGameAlertYesText</key>
+	<string>Tak</string>
+	<key>StartNewGameAlertNoText</key>
+	<string>Nie</string>
+	<key>SkillChangeNewGameAlertTitle</key>
+	<string>Zmień poziom trudności</string>
+	<key>SkillChangeNewGameAlertText</key>
+	<string>Zmiana poziomu trudności wymaże dotychczasowe wyniki. Czy chcesz zmienić poziom trudności?</string>
+	<key>SkillChangeNewGameAlertYesText</key>
+	<string>Tak</string>
+	<key>SkillChangeNewGameAlertNoText</key>
+	<string>Nie</string>
+	<key>ressetMessagesAlertTitle</key>
+	<string>Resetuj</string>
+	<key>ressetMessagesAlertText</key>
+	<string>Wszystkie wiadomości zostały zresetowane!</string>
+	<key>rankSignFormatText</key>
+	<string>Ranga %i</string>
+	<key>scoreBalloonLabelText</key>
+	<string>wynik</string>
+	<key>splashContinueText</key>
+	<string>Stuknij, aby rozpocząć</string>
+	<key>hideMessageText</key>
+	<string>Nie pokazuj ponownie</string>
+	<key>menuText</key>
+	<string>Menu</string>
+	<key>undoText</key>
+	<string>Cofnij</string>
+	<key>okText</key>
+	<string>OK</string>
+	<key>mainMenuText</key>
+	<string>Menu główne</string>
+	<key>resumeGameText</key>
+	<string>Wznów grę</string>
+	<key>newGameText</key>
+	<string>Nowa gra</string>
+	<key>howToPlayText</key>
+	<string>Sposób gry</string>
+	<key>optionsText</key>
+	<string>Opcje</string>
+	<key>skillLevelText</key>
+	<string>Poziom trudności</string>
+	<key>easyText</key>
+	<string>Łatwy</string>
+	<key>mediumText</key>
+	<string>Średni</string>
+	<key>hardText</key>
+	<string>Trudny</string>
+	<key>resetMessagesText</key>
+	<string>Zresetuj wiadomości</string>
+	<key>aboutText</key>
+	<string>O grze</string>
+	<key>backText</key>
+	<string>Wróć</string>
+	<key>quitText</key>
+	<string>Zakończ</string>
+	<key>gameHintTextItems</key>
+	<array>
+		<string>Dotykaj sąsiadujące balony o tym samym kolorze, by je przekłuć.</string>
+		<string>Uwolnij wszystkie nagrody, aby wygrać!</string>
+		<string>Łap spadające nagrody na cel.</string>
+		<string>Dotknij cel, by go przesunąć lub przechyl, by przesunąć nagrody.</string>
+		<string>Gra się kończy, gdy nie masz ruchów.</string>
+		<string>Dopalacz Pinezka umożliwia przekłucie pojedynczego balonu.</string>
+		<string>Dopalacz Kowadło opuszcza kolumnę o jeden rząd.</string>
+		<string>Zmień trudność na karcie Opcje w menu gry.</string>
+		<string>Dostępny jest przycisk Cofnij. Używaj go do woli!</string>
+		<string>Spróbuj uzyskać SUPERPUFFY, by nabić punkty!</string>
+	</array>
+	<key>helpText</key>
+	<dict>
+		<key>helpBasics</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonBasics</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderBasics</string>
+			<key>htmlFilename</key>
+			<string>PoppitBasicsHelpPL.html</string>
+			<key>title</key>
+			<string>Podstawy</string>
+		</dict>
+		<key>helpGameplay</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonGameplay</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderGameplay</string>
+			<key>htmlFilename</key>
+			<string>PoppitGameplayHelpPL.html</string>
+			<key>title</key>
+			<string>Rozgrywka</string>
+		</dict>
+		<key>helpSkillLevels</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonSkillLevel</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderSkillLevels</string>
+			<key>htmlFilename</key>
+			<string>PoppitSkillLevelsHelpPL.html</string>
+			<key>title</key>
+			<string>Poziomy trudności</string>
+		</dict>
+		<key>helpTips</key>
+		<dict>
+			<key>buttonTitleImage</key>
+			<string>PoppitButtonTips</string>
+			<key>headerTitleImage</key>
+			<string>PoppitHeaderTips</string>
+			<key>htmlFilename</key>
+			<string>PoppitTipsHelpPL.html</string>
+			<key>title</key>
+			<string>Porady</string>
+		</dict>
+	</dict>
+	<key>btn_back</key>
+	<string>Wróć</string>
+	<key>txt_highscore</key>
+	<string>Masz nowy rekord!</string>
+	<key>txt_tryagain</key>
+	<string>Zagraj jeszcze raz, by pobić swój rekord!</string>
+	<key>txt_allprizes</key>
+	<string>Uwolniono wszystkie nagrody!</string>
+	<key>slider_SFX</key>
+	<string>Efekty</string>
+	<key>about_txt_copy</key>
+	<string>Poppit © 2013 Electronic Arts Inc.  EA, logo EA i Poppit są znakami towarowymi Electronic Arts Inc.  Wszystkie prawa zastrzeżone.</string>
+	<key>about_txt_version</key>
+	<string>Wersja 1.0</string>
+	<key>about_txt_email</key>
+	<string>Obsługa klientów: pod adresem pogohelp@eamobile.com</string>
+	<key>Description_Copyright</key>
+	<string>© 2013 Electronic Arts Inc. Wszystkie prawa zastrzeżone.</string>
+	<key>eulaText1</key>
+	<string>Umowa użytkownika</string>
+	<key>eulaText2</key>
+	<string></string>
+	<key>privacyText</key>
+	<string>Zasady ochrony danych osobowych</string>
+	<key>tosText</key>
+	<string>Warunki korzystania z usług</string>
+</dict>
+</plist>
