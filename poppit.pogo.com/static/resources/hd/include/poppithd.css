@@ -1,0 +1,104 @@
+* {outline:none;}
+body {width:100%;height:100%;margin:0;padding:0;}
+
+
+#bannerDiv {
+	position:absolute;
+	width:728px;
+	height:90px;
+	left:276px;
+	top:10px;
+}
+
+#skyDiv {
+	position:absolute;
+	left:1063px;
+	top:120px;
+	
+}
+/*
+
+#gameDiv {
+	float:left;
+	margin-top:100px;
+	margin-left:50px;
+}
+
+
+
+*/
+#gamePanel {
+	position:absolute;
+	width:819.2px;
+    height:614.4px;
+    overflow:hidden;
+    left:232px;
+	top:112px;
+}
+
+#bannerDiv {
+	position:absolute;
+	
+}
+
+
+
+
+
+
+
+#sponsorDiv {
+
+	position:absolute;
+	top:690px;
+	left:800px;
+	font-size:12pt;
+	visibility:hidden;
+	font-family:helvetica;
+	font-weight:bold;
+	color:#FFFFFF;
+	text-shadow: 2px 2px 2px #000;
+}
+
+/*--NON-CHROME DIALOG--*/
+#notChrome {
+        position:absolute;
+        z-index:5;
+        width:349px;
+        height:218px;
+        background:url(/static/resources/hd/images/landing/dialog_bg.png) no-repeat;
+}
+.btnChrome, .btnPogo {position:absolute;text-indent:-5000px;overflow:hidden;}
+.btnChrome a, .btnPogo a {display:block;background-position:0 0;}
+.btnChrome {top:101px;left:82px;}
+.btnChrome a {
+        width:188px;
+        height:34px;
+        background:url(/static/resources/hd/images/landing/dialog_btn_download.png) no-repeat;
+}
+.btnChrome a:hover {background-position:-188px 0;}
+.btnChrome a:active {background-position:-376px 0;}
+.btnPogo {bottom:16px;left:120px;}
+.btnPogo a {
+        width:117px;
+        height:37px;
+        background:url(/static/resources/hd/images/landing/dialog_btn_pogo.png) no-repeat;
+}
+.btnPogo a:hover {background-position:-116px 0;}
+/*GWT BASE STYLES*/
+/** Example rules used by the template application (remove for your app) */
+h1 {font-size: 2em;font-weight: bold;color: #777777;margin: 40px 0px 70px;text-align: center;}
+.no-selection {
+    -moz-user-select: none; // mozilla browsers
+    -khtml-user-select: none; // webkit browsers
+}
+.sendButton {display: block;font-size: 16pt;}
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {width: 400px;}
+.dialogVPanel {margin: 5px;}
+.serverResponseLabelError {color: red;}
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {margin: 15px 6px 6px;}
+
+
+

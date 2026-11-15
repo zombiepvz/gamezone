@@ -1,0 +1,66 @@
+/*
+ * SimpleModal Basic Modal Dialog
+ * http://www.ericmmartin.com/projects/simplemodal/
+ * http://code.google.com/p/simplemodal/
+ *
+ * Copyright (c) 2010 Eric Martin - http://ericmmartin.com
+ *
+ * Licensed under the MIT license:
+ *   http://www.opensource.org/licenses/mit-license.php
+ *
+ * Revision: $Id: basic.css 257 2010-07-27 23:06:56Z emartin24 $
+ */
+
+body {
+	background-color: rgb(235, 235, 235);
+}
+#intermissionDiv {
+	font: 12px/normal Arial, Helvetica, sans-serif; left: 0px; top: 0px; width: 100%; height: 100%; text-align: center; color: rgb(85, 85, 85); overflow: hidden; position: absolute; font-size-adjust: none; font-stretch: normal;
+}
+
+.pinchHeaderModule {
+	margin: 0px;
+}
+.pinchHeaderModule i {
+	height: 52px; position: absolute; background-image: url("../images/curveBlueOnGray.png"); background-repeat: no-repeat;
+}
+.pinchHeaderModule i.tL {
+	left: 4px; top: 6px; width: 99%;
+}
+.pinchHeaderModule i.tR {
+	background-position: right bottom; top: 0px; width: 7px; height: 33px; right: 0px;
+}
+
+
+.modHeader {
+	left: 20px; top: 7px; height: 26px; color: rgb(255, 255, 255); line-height: 26px; padding-top: 4px; font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight: normal; position: absolute; z-index: 100;
+}
+.modHeader strong {
+	font-weight: bold;
+}
+.modHeader em {
+	font-size: 24px; font-style: normal; font-weight: bold;
+}
+.modContent {
+	margin-top: 70px; min-height: 150px;
+}
+
+ 
+
+#basic-modal-content {display:none;}
+
+#intermissionDiv{display:none;}
+
+/* Overlay */
+#simplemodal-overlay {background-color:#000; cursor:wait;}
+
+/* Container */
+#simplemodal-container {height:525px; width:700px; color:#bbb; background-color:#333; border-style:none; padding:0px;border-top-left-radius: 10px 5px;}
+#simplemodal-container .simplemodal-data {padding:0px;}
+#simplemodal-container code {background:#141414; border-left:0px solid #65B43D; color:#bbb; display:block; font-size:12px; margin-bottom:12px; padding:4px 6px 6px;}
+#simplemodal-container a {color:#ddd;}
+#simplemodal-container a.modalCloseImg {background:url(../img/basic/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
+#simplemodal-container h3 {color:#84b8d9;}
+
+
+

@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <script type="text/javascript" src="/static/resources/hd/include/jquery-1.4.4.min.js"></script>
+    <script type="text/javascript" src="/static/resources/hd/include/jquery.query-2.1.7.js"></script>
+    <script type="text/javascript" src="/static/resources/hd/include/intermission.js"></script>
+    <script type='text/javascript' src='/static/resources/hd/include/jquery.simplemodal.js'></script>
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+                    '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <script type='text/javascript'>
+        googletag.cmd.push(function() {
+            googletag.defineSlot('/220/poppit2.pogo/inte', [300, 250], 'div-gpt-ad-poppithd-2').addService(googletag.pubads());
+            googletag.pubads().enableSingleRequest();
+            googletag.enableServices();
+        });
+    </script>
+</head>
+<body style="text-align:center;margin:40 auto;">
+
+<div style="position:relative;margin-left:auto;margin-right:auto;display:inline-block;">
+
+    <div id='div-gpt-ad-poppithd-2'>
+        <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-poppithd-2');});
+        </script>
+    </div>
+</div>
+<script>
+
+
+    var totalCount = 35;
+    $(document).ready(function () {
+        var countTimer = setTimeout("countDown()",1000);
+    });
+
+    function countDown() {
+        totalCount --;
+        var header = parent.document.getElementById("game-loading-header");
+        $(header).html("Your game of Poppit! will start in " + totalCount + " seconds");
+        if(totalCount < 1) {
+            parent.closeAd();
+        }else {
+            setTimeout("countDown()",1000);
+        }
+
+    }
+</script>
+</body>
+</html>
